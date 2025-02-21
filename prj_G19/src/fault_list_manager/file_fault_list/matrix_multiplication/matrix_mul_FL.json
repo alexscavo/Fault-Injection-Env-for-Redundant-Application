@@ -1,0 +1,10002 @@
+[
+  {
+    "var": "j",
+    "time": 172,
+    "flipped_bit": 20
+  },
+  {
+    "var": "result[0][1]",
+    "time": 165,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 48,
+    "flipped_bit": 20
+  },
+  {
+    "var": "acc",
+    "time": 35,
+    "flipped_bit": 4
+  },
+  {
+    "var": "b[3][1]",
+    "time": 81,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[3][1]",
+    "time": 50,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 80,
+    "flipped_bit": 15
+  },
+  {
+    "var": "result[1][0]",
+    "time": 2,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[0][1]",
+    "time": 42,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 186,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 99,
+    "flipped_bit": 10
+  },
+  {
+    "var": "j",
+    "time": 179,
+    "flipped_bit": 6
+  },
+  {
+    "var": "i",
+    "time": 113,
+    "flipped_bit": 20
+  },
+  {
+    "var": "size",
+    "time": 140,
+    "flipped_bit": 15
+  },
+  {
+    "var": "k",
+    "time": 100,
+    "flipped_bit": 22
+  },
+  {
+    "var": "k",
+    "time": 9,
+    "flipped_bit": 27
+  },
+  {
+    "var": "size",
+    "time": 185,
+    "flipped_bit": 5
+  },
+  {
+    "var": "acc",
+    "time": 162,
+    "flipped_bit": 31
+  },
+  {
+    "var": "acc",
+    "time": 106,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[3][2]",
+    "time": 139,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 173,
+    "flipped_bit": 27
+  },
+  {
+    "var": "b[3][3]",
+    "time": 166,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[0][0]",
+    "time": 65,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[2][1]",
+    "time": 42,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[1][2]",
+    "time": 93,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 155,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 14,
+    "flipped_bit": 23
+  },
+  {
+    "var": "acc",
+    "time": 106,
+    "flipped_bit": 31
+  },
+  {
+    "var": "k",
+    "time": 37,
+    "flipped_bit": 17
+  },
+  {
+    "var": "a[2][1]",
+    "time": 112,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 114,
+    "flipped_bit": 15
+  },
+  {
+    "var": "result[2][1]",
+    "time": 62,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 23,
+    "flipped_bit": 22
+  },
+  {
+    "var": "a[2][1]",
+    "time": 119,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[0][1]",
+    "time": 74,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 129,
+    "flipped_bit": 11
+  },
+  {
+    "var": "j",
+    "time": 127,
+    "flipped_bit": 25
+  },
+  {
+    "var": "j",
+    "time": 148,
+    "flipped_bit": 12
+  },
+  {
+    "var": "acc",
+    "time": 60,
+    "flipped_bit": 19
+  },
+  {
+    "var": "k",
+    "time": 107,
+    "flipped_bit": 24
+  },
+  {
+    "var": "k",
+    "time": 31,
+    "flipped_bit": 29
+  },
+  {
+    "var": "b[2][1]",
+    "time": 190,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 147,
+    "flipped_bit": 16
+  },
+  {
+    "var": "b[1][1]",
+    "time": 60,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 173,
+    "flipped_bit": 12
+  },
+  {
+    "var": "b[3][2]",
+    "time": 25,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[1][2]",
+    "time": 135,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 44,
+    "flipped_bit": 21
+  },
+  {
+    "var": "k",
+    "time": 190,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[2][0]",
+    "time": 25,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 59,
+    "flipped_bit": 12
+  },
+  {
+    "var": "acc",
+    "time": 65,
+    "flipped_bit": 22
+  },
+  {
+    "var": "j",
+    "time": 29,
+    "flipped_bit": 20
+  },
+  {
+    "var": "b[3][0]",
+    "time": 152,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 72,
+    "flipped_bit": 12
+  },
+  {
+    "var": "j",
+    "time": 143,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[0][2]",
+    "time": 125,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 148,
+    "flipped_bit": 27
+  },
+  {
+    "var": "size",
+    "time": 26,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 37,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 84,
+    "flipped_bit": 6
+  },
+  {
+    "var": "a[3][1]",
+    "time": 88,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 106,
+    "flipped_bit": 14
+  },
+  {
+    "var": "b[1][0]",
+    "time": 139,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 153,
+    "flipped_bit": 12
+  },
+  {
+    "var": "i",
+    "time": 78,
+    "flipped_bit": 14
+  },
+  {
+    "var": "result[0][2]",
+    "time": 110,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 147,
+    "flipped_bit": 5
+  },
+  {
+    "var": "j",
+    "time": 94,
+    "flipped_bit": 17
+  },
+  {
+    "var": "j",
+    "time": 177,
+    "flipped_bit": 28
+  },
+  {
+    "var": "j",
+    "time": 102,
+    "flipped_bit": 22
+  },
+  {
+    "var": "result[0][3]",
+    "time": 44,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 29,
+    "flipped_bit": 8
+  },
+  {
+    "var": "b[2][0]",
+    "time": 79,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 52,
+    "flipped_bit": 11
+  },
+  {
+    "var": "a[1][2]",
+    "time": 35,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 28,
+    "flipped_bit": 12
+  },
+  {
+    "var": "k",
+    "time": 65,
+    "flipped_bit": 23
+  },
+  {
+    "var": "size",
+    "time": 41,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[2][0]",
+    "time": 126,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 114,
+    "flipped_bit": 16
+  },
+  {
+    "var": "acc",
+    "time": 78,
+    "flipped_bit": 20
+  },
+  {
+    "var": "size",
+    "time": 164,
+    "flipped_bit": 31
+  },
+  {
+    "var": "a[0][3]",
+    "time": 34,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[2][1]",
+    "time": 121,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 91,
+    "flipped_bit": 25
+  },
+  {
+    "var": "acc",
+    "time": 53,
+    "flipped_bit": 8
+  },
+  {
+    "var": "a[2][3]",
+    "time": 184,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 84,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 100,
+    "flipped_bit": 16
+  },
+  {
+    "var": "j",
+    "time": 158,
+    "flipped_bit": 19
+  },
+  {
+    "var": "result[0][2]",
+    "time": 14,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 97,
+    "flipped_bit": 30
+  },
+  {
+    "var": "b[0][3]",
+    "time": 39,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[3][2]",
+    "time": 135,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 102,
+    "flipped_bit": 10
+  },
+  {
+    "var": "result[2][1]",
+    "time": 165,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 64,
+    "flipped_bit": 14
+  },
+  {
+    "var": "a[0][2]",
+    "time": 149,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 124,
+    "flipped_bit": 7
+  },
+  {
+    "var": "size",
+    "time": 56,
+    "flipped_bit": 14
+  },
+  {
+    "var": "b[3][0]",
+    "time": 69,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[3][1]",
+    "time": 120,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 59,
+    "flipped_bit": 29
+  },
+  {
+    "var": "b[3][1]",
+    "time": 118,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 41,
+    "flipped_bit": 12
+  },
+  {
+    "var": "a[2][1]",
+    "time": 3,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[3][1]",
+    "time": 127,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[2][1]",
+    "time": 53,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[1][2]",
+    "time": 67,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 85,
+    "flipped_bit": 27
+  },
+  {
+    "var": "result[0][3]",
+    "time": 140,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[0][0]",
+    "time": 105,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 23,
+    "flipped_bit": 18
+  },
+  {
+    "var": "b[3][3]",
+    "time": 187,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 116,
+    "flipped_bit": 4
+  },
+  {
+    "var": "size",
+    "time": 126,
+    "flipped_bit": 10
+  },
+  {
+    "var": "j",
+    "time": 7,
+    "flipped_bit": 7
+  },
+  {
+    "var": "acc",
+    "time": 82,
+    "flipped_bit": 14
+  },
+  {
+    "var": "acc",
+    "time": 121,
+    "flipped_bit": 19
+  },
+  {
+    "var": "b[1][0]",
+    "time": 79,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[2][0]",
+    "time": 59,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[3][2]",
+    "time": 100,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 22,
+    "flipped_bit": 27
+  },
+  {
+    "var": "acc",
+    "time": 110,
+    "flipped_bit": 26
+  },
+  {
+    "var": "b[2][3]",
+    "time": 144,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 122,
+    "flipped_bit": 16
+  },
+  {
+    "var": "b[3][0]",
+    "time": 104,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 5,
+    "flipped_bit": 22
+  },
+  {
+    "var": "i",
+    "time": 17,
+    "flipped_bit": 29
+  },
+  {
+    "var": "i",
+    "time": 65,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[3][0]",
+    "time": 156,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 70,
+    "flipped_bit": 16
+  },
+  {
+    "var": "b[0][1]",
+    "time": 134,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 61,
+    "flipped_bit": 5
+  },
+  {
+    "var": "result[1][1]",
+    "time": 155,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 125,
+    "flipped_bit": 27
+  },
+  {
+    "var": "j",
+    "time": 107,
+    "flipped_bit": 9
+  },
+  {
+    "var": "a[3][2]",
+    "time": 145,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[1][1]",
+    "time": 36,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 71,
+    "flipped_bit": 16
+  },
+  {
+    "var": "k",
+    "time": 162,
+    "flipped_bit": 7
+  },
+  {
+    "var": "i",
+    "time": 188,
+    "flipped_bit": 20
+  },
+  {
+    "var": "i",
+    "time": 85,
+    "flipped_bit": 5
+  },
+  {
+    "var": "j",
+    "time": 44,
+    "flipped_bit": 12
+  },
+  {
+    "var": "acc",
+    "time": 48,
+    "flipped_bit": 7
+  },
+  {
+    "var": "b[0][1]",
+    "time": 39,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 13,
+    "flipped_bit": 11
+  },
+  {
+    "var": "a[1][2]",
+    "time": 105,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[3][3]",
+    "time": 10,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 70,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[1][1]",
+    "time": 15,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 74,
+    "flipped_bit": 14
+  },
+  {
+    "var": "acc",
+    "time": 77,
+    "flipped_bit": 16
+  },
+  {
+    "var": "size",
+    "time": 46,
+    "flipped_bit": 6
+  },
+  {
+    "var": "j",
+    "time": 135,
+    "flipped_bit": 6
+  },
+  {
+    "var": "size",
+    "time": 25,
+    "flipped_bit": 7
+  },
+  {
+    "var": "b[3][0]",
+    "time": 101,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 14,
+    "flipped_bit": 30
+  },
+  {
+    "var": "k",
+    "time": 97,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 30,
+    "flipped_bit": 18
+  },
+  {
+    "var": "a[2][0]",
+    "time": 166,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 102,
+    "flipped_bit": 7
+  },
+  {
+    "var": "b[0][2]",
+    "time": 138,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[2][3]",
+    "time": 26,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 162,
+    "flipped_bit": 16
+  },
+  {
+    "var": "b[1][2]",
+    "time": 6,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 175,
+    "flipped_bit": 24
+  },
+  {
+    "var": "result[2][1]",
+    "time": 165,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 7,
+    "flipped_bit": 26
+  },
+  {
+    "var": "result[3][1]",
+    "time": 128,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 20,
+    "flipped_bit": 28
+  },
+  {
+    "var": "b[1][2]",
+    "time": 93,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[3][2]",
+    "time": 58,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 95,
+    "flipped_bit": 9
+  },
+  {
+    "var": "size",
+    "time": 72,
+    "flipped_bit": 24
+  },
+  {
+    "var": "i",
+    "time": 26,
+    "flipped_bit": 20
+  },
+  {
+    "var": "result[3][2]",
+    "time": 53,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[1][2]",
+    "time": 25,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 182,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[0][3]",
+    "time": 59,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[3][2]",
+    "time": 44,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[2][3]",
+    "time": 146,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[0][3]",
+    "time": 65,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 54,
+    "flipped_bit": 11
+  },
+  {
+    "var": "b[1][0]",
+    "time": 73,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 74,
+    "flipped_bit": 11
+  },
+  {
+    "var": "size",
+    "time": 187,
+    "flipped_bit": 9
+  },
+  {
+    "var": "i",
+    "time": 143,
+    "flipped_bit": 22
+  },
+  {
+    "var": "b[2][2]",
+    "time": 133,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[1][1]",
+    "time": 144,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[2][1]",
+    "time": 17,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 101,
+    "flipped_bit": 21
+  },
+  {
+    "var": "j",
+    "time": 123,
+    "flipped_bit": 9
+  },
+  {
+    "var": "size",
+    "time": 118,
+    "flipped_bit": 29
+  },
+  {
+    "var": "b[0][3]",
+    "time": 68,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 159,
+    "flipped_bit": 11
+  },
+  {
+    "var": "j",
+    "time": 21,
+    "flipped_bit": 16
+  },
+  {
+    "var": "i",
+    "time": 31,
+    "flipped_bit": 22
+  },
+  {
+    "var": "i",
+    "time": 187,
+    "flipped_bit": 19
+  },
+  {
+    "var": "result[0][1]",
+    "time": 125,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 33,
+    "flipped_bit": 13
+  },
+  {
+    "var": "size",
+    "time": 55,
+    "flipped_bit": 31
+  },
+  {
+    "var": "acc",
+    "time": 116,
+    "flipped_bit": 10
+  },
+  {
+    "var": "a[0][2]",
+    "time": 37,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[3][0]",
+    "time": 51,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 162,
+    "flipped_bit": 12
+  },
+  {
+    "var": "acc",
+    "time": 76,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 44,
+    "flipped_bit": 12
+  },
+  {
+    "var": "result[3][2]",
+    "time": 67,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[2][1]",
+    "time": 84,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[3][2]",
+    "time": 88,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 113,
+    "flipped_bit": 26
+  },
+  {
+    "var": "j",
+    "time": 63,
+    "flipped_bit": 31
+  },
+  {
+    "var": "i",
+    "time": 30,
+    "flipped_bit": 24
+  },
+  {
+    "var": "a[2][0]",
+    "time": 41,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 181,
+    "flipped_bit": 26
+  },
+  {
+    "var": "b[1][0]",
+    "time": 184,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 40,
+    "flipped_bit": 23
+  },
+  {
+    "var": "result[1][1]",
+    "time": 132,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 114,
+    "flipped_bit": 21
+  },
+  {
+    "var": "acc",
+    "time": 59,
+    "flipped_bit": 6
+  },
+  {
+    "var": "i",
+    "time": 28,
+    "flipped_bit": 19
+  },
+  {
+    "var": "j",
+    "time": 64,
+    "flipped_bit": 20
+  },
+  {
+    "var": "k",
+    "time": 110,
+    "flipped_bit": 15
+  },
+  {
+    "var": "acc",
+    "time": 70,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 82,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 21,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[1][1]",
+    "time": 114,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 22,
+    "flipped_bit": 8
+  },
+  {
+    "var": "k",
+    "time": 51,
+    "flipped_bit": 14
+  },
+  {
+    "var": "b[2][2]",
+    "time": 61,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[2][1]",
+    "time": 181,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 31,
+    "flipped_bit": 25
+  },
+  {
+    "var": "k",
+    "time": 54,
+    "flipped_bit": 8
+  },
+  {
+    "var": "size",
+    "time": 174,
+    "flipped_bit": 27
+  },
+  {
+    "var": "j",
+    "time": 134,
+    "flipped_bit": 8
+  },
+  {
+    "var": "k",
+    "time": 38,
+    "flipped_bit": 28
+  },
+  {
+    "var": "acc",
+    "time": 97,
+    "flipped_bit": 6
+  },
+  {
+    "var": "j",
+    "time": 45,
+    "flipped_bit": 30
+  },
+  {
+    "var": "acc",
+    "time": 51,
+    "flipped_bit": 19
+  },
+  {
+    "var": "acc",
+    "time": 158,
+    "flipped_bit": 9
+  },
+  {
+    "var": "size",
+    "time": 151,
+    "flipped_bit": 8
+  },
+  {
+    "var": "size",
+    "time": 27,
+    "flipped_bit": 14
+  },
+  {
+    "var": "i",
+    "time": 127,
+    "flipped_bit": 28
+  },
+  {
+    "var": "i",
+    "time": 104,
+    "flipped_bit": 7
+  },
+  {
+    "var": "a[0][0]",
+    "time": 132,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 182,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 88,
+    "flipped_bit": 6
+  },
+  {
+    "var": "size",
+    "time": 27,
+    "flipped_bit": 7
+  },
+  {
+    "var": "a[0][3]",
+    "time": 153,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[3][3]",
+    "time": 63,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[0][0]",
+    "time": 42,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 120,
+    "flipped_bit": 31
+  },
+  {
+    "var": "j",
+    "time": 109,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[0][1]",
+    "time": 188,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 56,
+    "flipped_bit": 31
+  },
+  {
+    "var": "k",
+    "time": 36,
+    "flipped_bit": 11
+  },
+  {
+    "var": "result[1][0]",
+    "time": 189,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 3,
+    "flipped_bit": 16
+  },
+  {
+    "var": "j",
+    "time": 81,
+    "flipped_bit": 23
+  },
+  {
+    "var": "i",
+    "time": 134,
+    "flipped_bit": 14
+  },
+  {
+    "var": "a[2][2]",
+    "time": 79,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 162,
+    "flipped_bit": 31
+  },
+  {
+    "var": "size",
+    "time": 57,
+    "flipped_bit": 8
+  },
+  {
+    "var": "acc",
+    "time": 90,
+    "flipped_bit": 5
+  },
+  {
+    "var": "acc",
+    "time": 84,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[0][0]",
+    "time": 55,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 178,
+    "flipped_bit": 5
+  },
+  {
+    "var": "a[1][1]",
+    "time": 80,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 121,
+    "flipped_bit": 28
+  },
+  {
+    "var": "acc",
+    "time": 29,
+    "flipped_bit": 24
+  },
+  {
+    "var": "j",
+    "time": 128,
+    "flipped_bit": 4
+  },
+  {
+    "var": "j",
+    "time": 85,
+    "flipped_bit": 26
+  },
+  {
+    "var": "b[1][3]",
+    "time": 30,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[2][0]",
+    "time": 183,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[0][3]",
+    "time": 137,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[0][0]",
+    "time": 165,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 65,
+    "flipped_bit": 27
+  },
+  {
+    "var": "j",
+    "time": 27,
+    "flipped_bit": 4
+  },
+  {
+    "var": "j",
+    "time": 63,
+    "flipped_bit": 7
+  },
+  {
+    "var": "j",
+    "time": 68,
+    "flipped_bit": 8
+  },
+  {
+    "var": "size",
+    "time": 32,
+    "flipped_bit": 28
+  },
+  {
+    "var": "a[0][2]",
+    "time": 30,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[3][3]",
+    "time": 56,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 32,
+    "flipped_bit": 11
+  },
+  {
+    "var": "size",
+    "time": 22,
+    "flipped_bit": 19
+  },
+  {
+    "var": "acc",
+    "time": 130,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[0][0]",
+    "time": 37,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[0][2]",
+    "time": 10,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 21,
+    "flipped_bit": 4
+  },
+  {
+    "var": "a[3][3]",
+    "time": 46,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 180,
+    "flipped_bit": 10
+  },
+  {
+    "var": "i",
+    "time": 99,
+    "flipped_bit": 16
+  },
+  {
+    "var": "i",
+    "time": 97,
+    "flipped_bit": 27
+  },
+  {
+    "var": "acc",
+    "time": 46,
+    "flipped_bit": 22
+  },
+  {
+    "var": "i",
+    "time": 174,
+    "flipped_bit": 31
+  },
+  {
+    "var": "i",
+    "time": 86,
+    "flipped_bit": 9
+  },
+  {
+    "var": "j",
+    "time": 9,
+    "flipped_bit": 20
+  },
+  {
+    "var": "k",
+    "time": 20,
+    "flipped_bit": 21
+  },
+  {
+    "var": "a[0][0]",
+    "time": 20,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 106,
+    "flipped_bit": 30
+  },
+  {
+    "var": "acc",
+    "time": 39,
+    "flipped_bit": 24
+  },
+  {
+    "var": "size",
+    "time": 157,
+    "flipped_bit": 14
+  },
+  {
+    "var": "b[1][1]",
+    "time": 46,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 60,
+    "flipped_bit": 23
+  },
+  {
+    "var": "result[2][3]",
+    "time": 52,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 14,
+    "flipped_bit": 25
+  },
+  {
+    "var": "a[1][1]",
+    "time": 45,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 152,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[1][3]",
+    "time": 16,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 33,
+    "flipped_bit": 5
+  },
+  {
+    "var": "acc",
+    "time": 14,
+    "flipped_bit": 18
+  },
+  {
+    "var": "acc",
+    "time": 103,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 158,
+    "flipped_bit": 10
+  },
+  {
+    "var": "acc",
+    "time": 166,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 130,
+    "flipped_bit": 29
+  },
+  {
+    "var": "acc",
+    "time": 102,
+    "flipped_bit": 19
+  },
+  {
+    "var": "acc",
+    "time": 166,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 18,
+    "flipped_bit": 28
+  },
+  {
+    "var": "a[2][1]",
+    "time": 73,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 135,
+    "flipped_bit": 16
+  },
+  {
+    "var": "a[1][1]",
+    "time": 74,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 154,
+    "flipped_bit": 22
+  },
+  {
+    "var": "k",
+    "time": 148,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 124,
+    "flipped_bit": 14
+  },
+  {
+    "var": "acc",
+    "time": 45,
+    "flipped_bit": 26
+  },
+  {
+    "var": "acc",
+    "time": 28,
+    "flipped_bit": 17
+  },
+  {
+    "var": "result[2][1]",
+    "time": 174,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[0][0]",
+    "time": 175,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 17,
+    "flipped_bit": 22
+  },
+  {
+    "var": "k",
+    "time": 83,
+    "flipped_bit": 17
+  },
+  {
+    "var": "i",
+    "time": 5,
+    "flipped_bit": 4
+  },
+  {
+    "var": "b[0][2]",
+    "time": 36,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 61,
+    "flipped_bit": 7
+  },
+  {
+    "var": "i",
+    "time": 156,
+    "flipped_bit": 28
+  },
+  {
+    "var": "acc",
+    "time": 83,
+    "flipped_bit": 16
+  },
+  {
+    "var": "j",
+    "time": 171,
+    "flipped_bit": 19
+  },
+  {
+    "var": "i",
+    "time": 25,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 62,
+    "flipped_bit": 27
+  },
+  {
+    "var": "b[0][0]",
+    "time": 129,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 37,
+    "flipped_bit": 6
+  },
+  {
+    "var": "result[3][1]",
+    "time": 113,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 176,
+    "flipped_bit": 16
+  },
+  {
+    "var": "b[2][2]",
+    "time": 11,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 47,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[1][2]",
+    "time": 138,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 68,
+    "flipped_bit": 22
+  },
+  {
+    "var": "k",
+    "time": 128,
+    "flipped_bit": 4
+  },
+  {
+    "var": "acc",
+    "time": 13,
+    "flipped_bit": 19
+  },
+  {
+    "var": "i",
+    "time": 129,
+    "flipped_bit": 6
+  },
+  {
+    "var": "acc",
+    "time": 131,
+    "flipped_bit": 4
+  },
+  {
+    "var": "b[3][2]",
+    "time": 107,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[0][1]",
+    "time": 133,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[1][2]",
+    "time": 102,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 102,
+    "flipped_bit": 5
+  },
+  {
+    "var": "j",
+    "time": 31,
+    "flipped_bit": 27
+  },
+  {
+    "var": "result[2][1]",
+    "time": 125,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 95,
+    "flipped_bit": 24
+  },
+  {
+    "var": "result[3][2]",
+    "time": 101,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 163,
+    "flipped_bit": 15
+  },
+  {
+    "var": "j",
+    "time": 62,
+    "flipped_bit": 31
+  },
+  {
+    "var": "result[1][0]",
+    "time": 173,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 180,
+    "flipped_bit": 16
+  },
+  {
+    "var": "j",
+    "time": 120,
+    "flipped_bit": 25
+  },
+  {
+    "var": "b[0][3]",
+    "time": 121,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 127,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[3][1]",
+    "time": 12,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 145,
+    "flipped_bit": 23
+  },
+  {
+    "var": "a[0][2]",
+    "time": 41,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 176,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 179,
+    "flipped_bit": 8
+  },
+  {
+    "var": "acc",
+    "time": 111,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 162,
+    "flipped_bit": 13
+  },
+  {
+    "var": "j",
+    "time": 27,
+    "flipped_bit": 27
+  },
+  {
+    "var": "a[2][1]",
+    "time": 59,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 125,
+    "flipped_bit": 13
+  },
+  {
+    "var": "result[3][0]",
+    "time": 151,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 93,
+    "flipped_bit": 4
+  },
+  {
+    "var": "j",
+    "time": 46,
+    "flipped_bit": 5
+  },
+  {
+    "var": "size",
+    "time": 180,
+    "flipped_bit": 4
+  },
+  {
+    "var": "acc",
+    "time": 80,
+    "flipped_bit": 7
+  },
+  {
+    "var": "b[3][1]",
+    "time": 190,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[2][2]",
+    "time": 4,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 127,
+    "flipped_bit": 11
+  },
+  {
+    "var": "b[2][0]",
+    "time": 48,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 102,
+    "flipped_bit": 6
+  },
+  {
+    "var": "result[1][0]",
+    "time": 67,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[0][1]",
+    "time": 17,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[3][0]",
+    "time": 161,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 169,
+    "flipped_bit": 13
+  },
+  {
+    "var": "acc",
+    "time": 173,
+    "flipped_bit": 9
+  },
+  {
+    "var": "size",
+    "time": 73,
+    "flipped_bit": 8
+  },
+  {
+    "var": "size",
+    "time": 114,
+    "flipped_bit": 14
+  },
+  {
+    "var": "j",
+    "time": 105,
+    "flipped_bit": 6
+  },
+  {
+    "var": "a[1][2]",
+    "time": 126,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 62,
+    "flipped_bit": 22
+  },
+  {
+    "var": "size",
+    "time": 72,
+    "flipped_bit": 19
+  },
+  {
+    "var": "result[0][1]",
+    "time": 35,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[2][1]",
+    "time": 86,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 100,
+    "flipped_bit": 14
+  },
+  {
+    "var": "acc",
+    "time": 118,
+    "flipped_bit": 27
+  },
+  {
+    "var": "size",
+    "time": 88,
+    "flipped_bit": 9
+  },
+  {
+    "var": "b[3][2]",
+    "time": 176,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 150,
+    "flipped_bit": 9
+  },
+  {
+    "var": "k",
+    "time": 14,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 87,
+    "flipped_bit": 6
+  },
+  {
+    "var": "b[3][0]",
+    "time": 122,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[2][0]",
+    "time": 44,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 4,
+    "flipped_bit": 16
+  },
+  {
+    "var": "k",
+    "time": 160,
+    "flipped_bit": 8
+  },
+  {
+    "var": "result[0][1]",
+    "time": 105,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[3][2]",
+    "time": 154,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 100,
+    "flipped_bit": 20
+  },
+  {
+    "var": "b[3][3]",
+    "time": 22,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[0][3]",
+    "time": 170,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 122,
+    "flipped_bit": 11
+  },
+  {
+    "var": "b[3][1]",
+    "time": 151,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 63,
+    "flipped_bit": 10
+  },
+  {
+    "var": "k",
+    "time": 31,
+    "flipped_bit": 8
+  },
+  {
+    "var": "size",
+    "time": 131,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 23,
+    "flipped_bit": 26
+  },
+  {
+    "var": "k",
+    "time": 155,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[0][1]",
+    "time": 38,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 173,
+    "flipped_bit": 22
+  },
+  {
+    "var": "acc",
+    "time": 103,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 138,
+    "flipped_bit": 25
+  },
+  {
+    "var": "b[3][1]",
+    "time": 138,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[2][3]",
+    "time": 55,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 111,
+    "flipped_bit": 28
+  },
+  {
+    "var": "b[0][2]",
+    "time": 142,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 73,
+    "flipped_bit": 4
+  },
+  {
+    "var": "acc",
+    "time": 175,
+    "flipped_bit": 17
+  },
+  {
+    "var": "j",
+    "time": 56,
+    "flipped_bit": 16
+  },
+  {
+    "var": "j",
+    "time": 11,
+    "flipped_bit": 4
+  },
+  {
+    "var": "b[1][0]",
+    "time": 115,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 46,
+    "flipped_bit": 14
+  },
+  {
+    "var": "b[0][3]",
+    "time": 106,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 161,
+    "flipped_bit": 29
+  },
+  {
+    "var": "j",
+    "time": 90,
+    "flipped_bit": 6
+  },
+  {
+    "var": "result[2][3]",
+    "time": 79,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[0][0]",
+    "time": 104,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[1][0]",
+    "time": 184,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[2][1]",
+    "time": 143,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[2][0]",
+    "time": 165,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 135,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[3][3]",
+    "time": 184,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 31,
+    "flipped_bit": 30
+  },
+  {
+    "var": "i",
+    "time": 141,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 106,
+    "flipped_bit": 4
+  },
+  {
+    "var": "result[1][3]",
+    "time": 139,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 26,
+    "flipped_bit": 5
+  },
+  {
+    "var": "i",
+    "time": 155,
+    "flipped_bit": 8
+  },
+  {
+    "var": "result[3][3]",
+    "time": 36,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 146,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 174,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[1][3]",
+    "time": 175,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 154,
+    "flipped_bit": 8
+  },
+  {
+    "var": "i",
+    "time": 70,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 32,
+    "flipped_bit": 14
+  },
+  {
+    "var": "k",
+    "time": 26,
+    "flipped_bit": 5
+  },
+  {
+    "var": "j",
+    "time": 106,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 121,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 2,
+    "flipped_bit": 15
+  },
+  {
+    "var": "i",
+    "time": 20,
+    "flipped_bit": 4
+  },
+  {
+    "var": "b[3][2]",
+    "time": 107,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 78,
+    "flipped_bit": 30
+  },
+  {
+    "var": "k",
+    "time": 154,
+    "flipped_bit": 13
+  },
+  {
+    "var": "b[2][0]",
+    "time": 179,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[1][2]",
+    "time": 163,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[1][2]",
+    "time": 185,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 177,
+    "flipped_bit": 23
+  },
+  {
+    "var": "k",
+    "time": 86,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[3][3]",
+    "time": 20,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 140,
+    "flipped_bit": 21
+  },
+  {
+    "var": "result[2][3]",
+    "time": 190,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 12,
+    "flipped_bit": 18
+  },
+  {
+    "var": "acc",
+    "time": 34,
+    "flipped_bit": 17
+  },
+  {
+    "var": "result[2][3]",
+    "time": 150,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 97,
+    "flipped_bit": 20
+  },
+  {
+    "var": "result[3][2]",
+    "time": 69,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 170,
+    "flipped_bit": 14
+  },
+  {
+    "var": "b[2][2]",
+    "time": 40,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[2][0]",
+    "time": 36,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[2][0]",
+    "time": 69,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 164,
+    "flipped_bit": 8
+  },
+  {
+    "var": "b[2][1]",
+    "time": 123,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 90,
+    "flipped_bit": 4
+  },
+  {
+    "var": "size",
+    "time": 151,
+    "flipped_bit": 4
+  },
+  {
+    "var": "acc",
+    "time": 94,
+    "flipped_bit": 29
+  },
+  {
+    "var": "j",
+    "time": 105,
+    "flipped_bit": 15
+  },
+  {
+    "var": "size",
+    "time": 168,
+    "flipped_bit": 4
+  },
+  {
+    "var": "b[2][2]",
+    "time": 162,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[1][3]",
+    "time": 13,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[3][2]",
+    "time": 31,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 78,
+    "flipped_bit": 4
+  },
+  {
+    "var": "result[2][0]",
+    "time": 107,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 121,
+    "flipped_bit": 7
+  },
+  {
+    "var": "result[3][2]",
+    "time": 126,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 39,
+    "flipped_bit": 5
+  },
+  {
+    "var": "i",
+    "time": 10,
+    "flipped_bit": 24
+  },
+  {
+    "var": "j",
+    "time": 117,
+    "flipped_bit": 28
+  },
+  {
+    "var": "a[3][0]",
+    "time": 182,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 96,
+    "flipped_bit": 7
+  },
+  {
+    "var": "k",
+    "time": 69,
+    "flipped_bit": 12
+  },
+  {
+    "var": "result[2][3]",
+    "time": 45,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[2][3]",
+    "time": 24,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[2][3]",
+    "time": 103,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[1][0]",
+    "time": 7,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 161,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[1][3]",
+    "time": 175,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 21,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 81,
+    "flipped_bit": 28
+  },
+  {
+    "var": "acc",
+    "time": 116,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 173,
+    "flipped_bit": 24
+  },
+  {
+    "var": "result[0][1]",
+    "time": 139,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[2][3]",
+    "time": 92,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[3][3]",
+    "time": 36,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 101,
+    "flipped_bit": 4
+  },
+  {
+    "var": "acc",
+    "time": 103,
+    "flipped_bit": 19
+  },
+  {
+    "var": "k",
+    "time": 38,
+    "flipped_bit": 6
+  },
+  {
+    "var": "size",
+    "time": 50,
+    "flipped_bit": 12
+  },
+  {
+    "var": "j",
+    "time": 159,
+    "flipped_bit": 27
+  },
+  {
+    "var": "k",
+    "time": 108,
+    "flipped_bit": 4
+  },
+  {
+    "var": "size",
+    "time": 175,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[3][1]",
+    "time": 113,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 48,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 37,
+    "flipped_bit": 31
+  },
+  {
+    "var": "k",
+    "time": 91,
+    "flipped_bit": 22
+  },
+  {
+    "var": "b[2][3]",
+    "time": 125,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 10,
+    "flipped_bit": 13
+  },
+  {
+    "var": "result[2][1]",
+    "time": 130,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 108,
+    "flipped_bit": 19
+  },
+  {
+    "var": "j",
+    "time": 41,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 167,
+    "flipped_bit": 30
+  },
+  {
+    "var": "i",
+    "time": 121,
+    "flipped_bit": 8
+  },
+  {
+    "var": "i",
+    "time": 105,
+    "flipped_bit": 5
+  },
+  {
+    "var": "k",
+    "time": 113,
+    "flipped_bit": 12
+  },
+  {
+    "var": "k",
+    "time": 28,
+    "flipped_bit": 28
+  },
+  {
+    "var": "j",
+    "time": 91,
+    "flipped_bit": 5
+  },
+  {
+    "var": "result[0][2]",
+    "time": 48,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[0][1]",
+    "time": 101,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 9,
+    "flipped_bit": 14
+  },
+  {
+    "var": "j",
+    "time": 64,
+    "flipped_bit": 12
+  },
+  {
+    "var": "j",
+    "time": 14,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 66,
+    "flipped_bit": 7
+  },
+  {
+    "var": "size",
+    "time": 136,
+    "flipped_bit": 13
+  },
+  {
+    "var": "i",
+    "time": 21,
+    "flipped_bit": 20
+  },
+  {
+    "var": "i",
+    "time": 54,
+    "flipped_bit": 13
+  },
+  {
+    "var": "result[1][2]",
+    "time": 41,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 88,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 126,
+    "flipped_bit": 5
+  },
+  {
+    "var": "i",
+    "time": 158,
+    "flipped_bit": 4
+  },
+  {
+    "var": "size",
+    "time": 134,
+    "flipped_bit": 5
+  },
+  {
+    "var": "j",
+    "time": 91,
+    "flipped_bit": 28
+  },
+  {
+    "var": "i",
+    "time": 44,
+    "flipped_bit": 25
+  },
+  {
+    "var": "k",
+    "time": 35,
+    "flipped_bit": 29
+  },
+  {
+    "var": "i",
+    "time": 35,
+    "flipped_bit": 21
+  },
+  {
+    "var": "a[2][2]",
+    "time": 185,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 161,
+    "flipped_bit": 6
+  },
+  {
+    "var": "b[1][3]",
+    "time": 106,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 56,
+    "flipped_bit": 7
+  },
+  {
+    "var": "j",
+    "time": 60,
+    "flipped_bit": 13
+  },
+  {
+    "var": "acc",
+    "time": 98,
+    "flipped_bit": 16
+  },
+  {
+    "var": "b[0][0]",
+    "time": 155,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 118,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 93,
+    "flipped_bit": 19
+  },
+  {
+    "var": "acc",
+    "time": 57,
+    "flipped_bit": 18
+  },
+  {
+    "var": "k",
+    "time": 97,
+    "flipped_bit": 18
+  },
+  {
+    "var": "acc",
+    "time": 168,
+    "flipped_bit": 9
+  },
+  {
+    "var": "i",
+    "time": 61,
+    "flipped_bit": 31
+  },
+  {
+    "var": "b[0][1]",
+    "time": 140,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 42,
+    "flipped_bit": 16
+  },
+  {
+    "var": "size",
+    "time": 29,
+    "flipped_bit": 10
+  },
+  {
+    "var": "i",
+    "time": 13,
+    "flipped_bit": 17
+  },
+  {
+    "var": "a[0][1]",
+    "time": 173,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[1][1]",
+    "time": 77,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 71,
+    "flipped_bit": 11
+  },
+  {
+    "var": "b[2][1]",
+    "time": 20,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 73,
+    "flipped_bit": 18
+  },
+  {
+    "var": "j",
+    "time": 99,
+    "flipped_bit": 30
+  },
+  {
+    "var": "size",
+    "time": 130,
+    "flipped_bit": 8
+  },
+  {
+    "var": "acc",
+    "time": 134,
+    "flipped_bit": 7
+  },
+  {
+    "var": "j",
+    "time": 160,
+    "flipped_bit": 7
+  },
+  {
+    "var": "a[1][0]",
+    "time": 96,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[2][3]",
+    "time": 183,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 173,
+    "flipped_bit": 27
+  },
+  {
+    "var": "a[2][3]",
+    "time": 134,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 61,
+    "flipped_bit": 6
+  },
+  {
+    "var": "j",
+    "time": 85,
+    "flipped_bit": 15
+  },
+  {
+    "var": "a[2][3]",
+    "time": 148,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[2][2]",
+    "time": 96,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[1][1]",
+    "time": 50,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[0][2]",
+    "time": 51,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 59,
+    "flipped_bit": 5
+  },
+  {
+    "var": "acc",
+    "time": 53,
+    "flipped_bit": 18
+  },
+  {
+    "var": "j",
+    "time": 109,
+    "flipped_bit": 5
+  },
+  {
+    "var": "b[0][2]",
+    "time": 57,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[1][2]",
+    "time": 112,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 76,
+    "flipped_bit": 9
+  },
+  {
+    "var": "a[3][1]",
+    "time": 91,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 160,
+    "flipped_bit": 12
+  },
+  {
+    "var": "i",
+    "time": 153,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 12,
+    "flipped_bit": 22
+  },
+  {
+    "var": "i",
+    "time": 112,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 80,
+    "flipped_bit": 18
+  },
+  {
+    "var": "a[1][0]",
+    "time": 67,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 68,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 21,
+    "flipped_bit": 8
+  },
+  {
+    "var": "a[2][0]",
+    "time": 83,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 44,
+    "flipped_bit": 4
+  },
+  {
+    "var": "acc",
+    "time": 27,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[3][1]",
+    "time": 33,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 110,
+    "flipped_bit": 13
+  },
+  {
+    "var": "a[1][0]",
+    "time": 84,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 33,
+    "flipped_bit": 20
+  },
+  {
+    "var": "k",
+    "time": 112,
+    "flipped_bit": 30
+  },
+  {
+    "var": "size",
+    "time": 186,
+    "flipped_bit": 27
+  },
+  {
+    "var": "acc",
+    "time": 123,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[1][1]",
+    "time": 20,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 58,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[2][1]",
+    "time": 152,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 79,
+    "flipped_bit": 16
+  },
+  {
+    "var": "acc",
+    "time": 154,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[0][2]",
+    "time": 38,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[0][2]",
+    "time": 101,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 20,
+    "flipped_bit": 20
+  },
+  {
+    "var": "result[1][2]",
+    "time": 112,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[2][0]",
+    "time": 99,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 173,
+    "flipped_bit": 12
+  },
+  {
+    "var": "i",
+    "time": 114,
+    "flipped_bit": 20
+  },
+  {
+    "var": "a[1][0]",
+    "time": 134,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 57,
+    "flipped_bit": 21
+  },
+  {
+    "var": "i",
+    "time": 75,
+    "flipped_bit": 19
+  },
+  {
+    "var": "b[0][1]",
+    "time": 21,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[1][1]",
+    "time": 150,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 120,
+    "flipped_bit": 28
+  },
+  {
+    "var": "size",
+    "time": 14,
+    "flipped_bit": 11
+  },
+  {
+    "var": "i",
+    "time": 125,
+    "flipped_bit": 9
+  },
+  {
+    "var": "j",
+    "time": 169,
+    "flipped_bit": 20
+  },
+  {
+    "var": "result[2][0]",
+    "time": 83,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[1][1]",
+    "time": 33,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 189,
+    "flipped_bit": 23
+  },
+  {
+    "var": "size",
+    "time": 67,
+    "flipped_bit": 21
+  },
+  {
+    "var": "k",
+    "time": 177,
+    "flipped_bit": 13
+  },
+  {
+    "var": "k",
+    "time": 48,
+    "flipped_bit": 8
+  },
+  {
+    "var": "i",
+    "time": 59,
+    "flipped_bit": 9
+  },
+  {
+    "var": "acc",
+    "time": 10,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 13,
+    "flipped_bit": 4
+  },
+  {
+    "var": "i",
+    "time": 18,
+    "flipped_bit": 28
+  },
+  {
+    "var": "k",
+    "time": 80,
+    "flipped_bit": 18
+  },
+  {
+    "var": "size",
+    "time": 118,
+    "flipped_bit": 7
+  },
+  {
+    "var": "acc",
+    "time": 184,
+    "flipped_bit": 15
+  },
+  {
+    "var": "j",
+    "time": 105,
+    "flipped_bit": 24
+  },
+  {
+    "var": "b[0][3]",
+    "time": 72,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 60,
+    "flipped_bit": 7
+  },
+  {
+    "var": "result[2][0]",
+    "time": 6,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 185,
+    "flipped_bit": 26
+  },
+  {
+    "var": "j",
+    "time": 162,
+    "flipped_bit": 4
+  },
+  {
+    "var": "a[2][3]",
+    "time": 99,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[1][0]",
+    "time": 130,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 96,
+    "flipped_bit": 21
+  },
+  {
+    "var": "size",
+    "time": 40,
+    "flipped_bit": 16
+  },
+  {
+    "var": "i",
+    "time": 71,
+    "flipped_bit": 25
+  },
+  {
+    "var": "j",
+    "time": 57,
+    "flipped_bit": 30
+  },
+  {
+    "var": "i",
+    "time": 151,
+    "flipped_bit": 21
+  },
+  {
+    "var": "b[1][0]",
+    "time": 182,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[1][3]",
+    "time": 84,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[1][2]",
+    "time": 131,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 165,
+    "flipped_bit": 29
+  },
+  {
+    "var": "size",
+    "time": 142,
+    "flipped_bit": 31
+  },
+  {
+    "var": "j",
+    "time": 102,
+    "flipped_bit": 17
+  },
+  {
+    "var": "b[0][0]",
+    "time": 12,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 127,
+    "flipped_bit": 13
+  },
+  {
+    "var": "j",
+    "time": 178,
+    "flipped_bit": 28
+  },
+  {
+    "var": "result[1][2]",
+    "time": 96,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 176,
+    "flipped_bit": 15
+  },
+  {
+    "var": "acc",
+    "time": 84,
+    "flipped_bit": 9
+  },
+  {
+    "var": "b[0][0]",
+    "time": 57,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 144,
+    "flipped_bit": 24
+  },
+  {
+    "var": "b[3][3]",
+    "time": 31,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[3][0]",
+    "time": 155,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 100,
+    "flipped_bit": 28
+  },
+  {
+    "var": "b[1][1]",
+    "time": 39,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 34,
+    "flipped_bit": 5
+  },
+  {
+    "var": "k",
+    "time": 16,
+    "flipped_bit": 5
+  },
+  {
+    "var": "size",
+    "time": 143,
+    "flipped_bit": 4
+  },
+  {
+    "var": "a[3][1]",
+    "time": 76,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 90,
+    "flipped_bit": 25
+  },
+  {
+    "var": "a[3][3]",
+    "time": 130,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 169,
+    "flipped_bit": 11
+  },
+  {
+    "var": "a[2][2]",
+    "time": 86,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[1][0]",
+    "time": 69,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[1][0]",
+    "time": 180,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 132,
+    "flipped_bit": 29
+  },
+  {
+    "var": "acc",
+    "time": 52,
+    "flipped_bit": 18
+  },
+  {
+    "var": "i",
+    "time": 78,
+    "flipped_bit": 22
+  },
+  {
+    "var": "b[3][1]",
+    "time": 73,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 152,
+    "flipped_bit": 9
+  },
+  {
+    "var": "size",
+    "time": 138,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 101,
+    "flipped_bit": 14
+  },
+  {
+    "var": "j",
+    "time": 141,
+    "flipped_bit": 7
+  },
+  {
+    "var": "k",
+    "time": 71,
+    "flipped_bit": 31
+  },
+  {
+    "var": "k",
+    "time": 105,
+    "flipped_bit": 13
+  },
+  {
+    "var": "i",
+    "time": 34,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 50,
+    "flipped_bit": 9
+  },
+  {
+    "var": "i",
+    "time": 17,
+    "flipped_bit": 15
+  },
+  {
+    "var": "i",
+    "time": 42,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[1][0]",
+    "time": 1,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 148,
+    "flipped_bit": 28
+  },
+  {
+    "var": "b[3][1]",
+    "time": 146,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 61,
+    "flipped_bit": 26
+  },
+  {
+    "var": "acc",
+    "time": 135,
+    "flipped_bit": 21
+  },
+  {
+    "var": "b[1][3]",
+    "time": 11,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 90,
+    "flipped_bit": 19
+  },
+  {
+    "var": "j",
+    "time": 167,
+    "flipped_bit": 19
+  },
+  {
+    "var": "i",
+    "time": 19,
+    "flipped_bit": 21
+  },
+  {
+    "var": "size",
+    "time": 37,
+    "flipped_bit": 25
+  },
+  {
+    "var": "i",
+    "time": 169,
+    "flipped_bit": 10
+  },
+  {
+    "var": "i",
+    "time": 52,
+    "flipped_bit": 26
+  },
+  {
+    "var": "size",
+    "time": 84,
+    "flipped_bit": 6
+  },
+  {
+    "var": "size",
+    "time": 145,
+    "flipped_bit": 10
+  },
+  {
+    "var": "result[2][1]",
+    "time": 173,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[3][0]",
+    "time": 156,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 4,
+    "flipped_bit": 21
+  },
+  {
+    "var": "size",
+    "time": 71,
+    "flipped_bit": 22
+  },
+  {
+    "var": "j",
+    "time": 174,
+    "flipped_bit": 11
+  },
+  {
+    "var": "k",
+    "time": 185,
+    "flipped_bit": 23
+  },
+  {
+    "var": "size",
+    "time": 108,
+    "flipped_bit": 29
+  },
+  {
+    "var": "j",
+    "time": 18,
+    "flipped_bit": 28
+  },
+  {
+    "var": "k",
+    "time": 136,
+    "flipped_bit": 31
+  },
+  {
+    "var": "size",
+    "time": 13,
+    "flipped_bit": 18
+  },
+  {
+    "var": "j",
+    "time": 163,
+    "flipped_bit": 21
+  },
+  {
+    "var": "b[2][2]",
+    "time": 114,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 29,
+    "flipped_bit": 25
+  },
+  {
+    "var": "size",
+    "time": 63,
+    "flipped_bit": 21
+  },
+  {
+    "var": "result[1][3]",
+    "time": 112,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[3][2]",
+    "time": 77,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[3][2]",
+    "time": 156,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 97,
+    "flipped_bit": 9
+  },
+  {
+    "var": "b[1][2]",
+    "time": 174,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 44,
+    "flipped_bit": 15
+  },
+  {
+    "var": "size",
+    "time": 85,
+    "flipped_bit": 5
+  },
+  {
+    "var": "result[2][1]",
+    "time": 101,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[2][0]",
+    "time": 133,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[1][1]",
+    "time": 80,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 171,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[0][1]",
+    "time": 87,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 134,
+    "flipped_bit": 30
+  },
+  {
+    "var": "b[3][0]",
+    "time": 122,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 121,
+    "flipped_bit": 25
+  },
+  {
+    "var": "i",
+    "time": 52,
+    "flipped_bit": 16
+  },
+  {
+    "var": "j",
+    "time": 102,
+    "flipped_bit": 26
+  },
+  {
+    "var": "i",
+    "time": 188,
+    "flipped_bit": 14
+  },
+  {
+    "var": "result[0][0]",
+    "time": 73,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[2][0]",
+    "time": 57,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[2][0]",
+    "time": 186,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 29,
+    "flipped_bit": 7
+  },
+  {
+    "var": "k",
+    "time": 103,
+    "flipped_bit": 12
+  },
+  {
+    "var": "k",
+    "time": 20,
+    "flipped_bit": 28
+  },
+  {
+    "var": "size",
+    "time": 186,
+    "flipped_bit": 15
+  },
+  {
+    "var": "acc",
+    "time": 70,
+    "flipped_bit": 10
+  },
+  {
+    "var": "result[3][0]",
+    "time": 77,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 176,
+    "flipped_bit": 28
+  },
+  {
+    "var": "k",
+    "time": 164,
+    "flipped_bit": 27
+  },
+  {
+    "var": "i",
+    "time": 137,
+    "flipped_bit": 18
+  },
+  {
+    "var": "size",
+    "time": 35,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 70,
+    "flipped_bit": 19
+  },
+  {
+    "var": "a[0][0]",
+    "time": 118,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[0][0]",
+    "time": 14,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 190,
+    "flipped_bit": 15
+  },
+  {
+    "var": "result[2][3]",
+    "time": 99,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 83,
+    "flipped_bit": 7
+  },
+  {
+    "var": "result[0][0]",
+    "time": 3,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[0][1]",
+    "time": 36,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[0][1]",
+    "time": 51,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[3][2]",
+    "time": 118,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 180,
+    "flipped_bit": 26
+  },
+  {
+    "var": "size",
+    "time": 102,
+    "flipped_bit": 28
+  },
+  {
+    "var": "result[2][3]",
+    "time": 170,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 61,
+    "flipped_bit": 4
+  },
+  {
+    "var": "a[2][3]",
+    "time": 129,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[2][2]",
+    "time": 42,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 32,
+    "flipped_bit": 10
+  },
+  {
+    "var": "result[2][3]",
+    "time": 22,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 131,
+    "flipped_bit": 6
+  },
+  {
+    "var": "k",
+    "time": 185,
+    "flipped_bit": 21
+  },
+  {
+    "var": "result[2][3]",
+    "time": 99,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[1][3]",
+    "time": 38,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 138,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 187,
+    "flipped_bit": 23
+  },
+  {
+    "var": "size",
+    "time": 96,
+    "flipped_bit": 7
+  },
+  {
+    "var": "a[1][2]",
+    "time": 54,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[3][0]",
+    "time": 168,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 88,
+    "flipped_bit": 30
+  },
+  {
+    "var": "acc",
+    "time": 73,
+    "flipped_bit": 24
+  },
+  {
+    "var": "acc",
+    "time": 132,
+    "flipped_bit": 15
+  },
+  {
+    "var": "i",
+    "time": 156,
+    "flipped_bit": 12
+  },
+  {
+    "var": "a[1][0]",
+    "time": 169,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 29,
+    "flipped_bit": 22
+  },
+  {
+    "var": "acc",
+    "time": 15,
+    "flipped_bit": 18
+  },
+  {
+    "var": "i",
+    "time": 138,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[0][0]",
+    "time": 26,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[3][2]",
+    "time": 140,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[1][0]",
+    "time": 77,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[2][2]",
+    "time": 76,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 55,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[2][1]",
+    "time": 36,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 108,
+    "flipped_bit": 24
+  },
+  {
+    "var": "result[3][3]",
+    "time": 150,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 181,
+    "flipped_bit": 28
+  },
+  {
+    "var": "size",
+    "time": 8,
+    "flipped_bit": 19
+  },
+  {
+    "var": "i",
+    "time": 165,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 174,
+    "flipped_bit": 29
+  },
+  {
+    "var": "result[1][1]",
+    "time": 58,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[2][0]",
+    "time": 170,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[2][1]",
+    "time": 42,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 137,
+    "flipped_bit": 28
+  },
+  {
+    "var": "size",
+    "time": 178,
+    "flipped_bit": 9
+  },
+  {
+    "var": "j",
+    "time": 39,
+    "flipped_bit": 20
+  },
+  {
+    "var": "k",
+    "time": 96,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 108,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 118,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 189,
+    "flipped_bit": 14
+  },
+  {
+    "var": "k",
+    "time": 16,
+    "flipped_bit": 30
+  },
+  {
+    "var": "acc",
+    "time": 47,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 5,
+    "flipped_bit": 22
+  },
+  {
+    "var": "j",
+    "time": 26,
+    "flipped_bit": 10
+  },
+  {
+    "var": "a[1][3]",
+    "time": 14,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 68,
+    "flipped_bit": 14
+  },
+  {
+    "var": "a[3][2]",
+    "time": 165,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 188,
+    "flipped_bit": 19
+  },
+  {
+    "var": "acc",
+    "time": 68,
+    "flipped_bit": 22
+  },
+  {
+    "var": "i",
+    "time": 121,
+    "flipped_bit": 20
+  },
+  {
+    "var": "b[2][2]",
+    "time": 145,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 98,
+    "flipped_bit": 26
+  },
+  {
+    "var": "size",
+    "time": 165,
+    "flipped_bit": 8
+  },
+  {
+    "var": "i",
+    "time": 112,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[3][0]",
+    "time": 89,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 153,
+    "flipped_bit": 18
+  },
+  {
+    "var": "size",
+    "time": 2,
+    "flipped_bit": 24
+  },
+  {
+    "var": "acc",
+    "time": 100,
+    "flipped_bit": 28
+  },
+  {
+    "var": "size",
+    "time": 126,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[1][2]",
+    "time": 45,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 84,
+    "flipped_bit": 24
+  },
+  {
+    "var": "a[1][2]",
+    "time": 96,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 47,
+    "flipped_bit": 22
+  },
+  {
+    "var": "k",
+    "time": 153,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 13,
+    "flipped_bit": 27
+  },
+  {
+    "var": "b[0][0]",
+    "time": 153,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[3][1]",
+    "time": 2,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 86,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 136,
+    "flipped_bit": 7
+  },
+  {
+    "var": "result[2][3]",
+    "time": 78,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 120,
+    "flipped_bit": 24
+  },
+  {
+    "var": "j",
+    "time": 24,
+    "flipped_bit": 5
+  },
+  {
+    "var": "k",
+    "time": 174,
+    "flipped_bit": 5
+  },
+  {
+    "var": "j",
+    "time": 77,
+    "flipped_bit": 29
+  },
+  {
+    "var": "i",
+    "time": 66,
+    "flipped_bit": 9
+  },
+  {
+    "var": "i",
+    "time": 176,
+    "flipped_bit": 28
+  },
+  {
+    "var": "result[1][3]",
+    "time": 136,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[0][2]",
+    "time": 92,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[2][3]",
+    "time": 4,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 91,
+    "flipped_bit": 17
+  },
+  {
+    "var": "a[3][2]",
+    "time": 88,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[1][1]",
+    "time": 42,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 72,
+    "flipped_bit": 26
+  },
+  {
+    "var": "k",
+    "time": 101,
+    "flipped_bit": 4
+  },
+  {
+    "var": "a[1][1]",
+    "time": 156,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[3][0]",
+    "time": 157,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 13,
+    "flipped_bit": 10
+  },
+  {
+    "var": "i",
+    "time": 164,
+    "flipped_bit": 8
+  },
+  {
+    "var": "j",
+    "time": 86,
+    "flipped_bit": 14
+  },
+  {
+    "var": "b[3][3]",
+    "time": 60,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[2][3]",
+    "time": 35,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[1][2]",
+    "time": 93,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 179,
+    "flipped_bit": 27
+  },
+  {
+    "var": "b[2][3]",
+    "time": 7,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[3][3]",
+    "time": 166,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 80,
+    "flipped_bit": 15
+  },
+  {
+    "var": "result[0][2]",
+    "time": 126,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[1][0]",
+    "time": 1,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[3][3]",
+    "time": 75,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[1][3]",
+    "time": 68,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[2][3]",
+    "time": 132,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 16,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 3,
+    "flipped_bit": 28
+  },
+  {
+    "var": "j",
+    "time": 104,
+    "flipped_bit": 11
+  },
+  {
+    "var": "result[0][3]",
+    "time": 165,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 98,
+    "flipped_bit": 22
+  },
+  {
+    "var": "acc",
+    "time": 136,
+    "flipped_bit": 4
+  },
+  {
+    "var": "k",
+    "time": 80,
+    "flipped_bit": 8
+  },
+  {
+    "var": "j",
+    "time": 23,
+    "flipped_bit": 29
+  },
+  {
+    "var": "k",
+    "time": 39,
+    "flipped_bit": 20
+  },
+  {
+    "var": "a[0][0]",
+    "time": 3,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 126,
+    "flipped_bit": 13
+  },
+  {
+    "var": "k",
+    "time": 168,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[0][2]",
+    "time": 136,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[2][3]",
+    "time": 96,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 110,
+    "flipped_bit": 30
+  },
+  {
+    "var": "b[3][1]",
+    "time": 49,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 126,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[0][2]",
+    "time": 141,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 128,
+    "flipped_bit": 28
+  },
+  {
+    "var": "acc",
+    "time": 45,
+    "flipped_bit": 31
+  },
+  {
+    "var": "k",
+    "time": 79,
+    "flipped_bit": 24
+  },
+  {
+    "var": "j",
+    "time": 79,
+    "flipped_bit": 14
+  },
+  {
+    "var": "result[2][0]",
+    "time": 113,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 14,
+    "flipped_bit": 30
+  },
+  {
+    "var": "acc",
+    "time": 83,
+    "flipped_bit": 10
+  },
+  {
+    "var": "a[0][2]",
+    "time": 147,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[1][1]",
+    "time": 74,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 108,
+    "flipped_bit": 20
+  },
+  {
+    "var": "k",
+    "time": 81,
+    "flipped_bit": 22
+  },
+  {
+    "var": "a[1][3]",
+    "time": 149,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 90,
+    "flipped_bit": 26
+  },
+  {
+    "var": "i",
+    "time": 9,
+    "flipped_bit": 17
+  },
+  {
+    "var": "b[1][0]",
+    "time": 9,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 178,
+    "flipped_bit": 14
+  },
+  {
+    "var": "a[2][2]",
+    "time": 89,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 110,
+    "flipped_bit": 7
+  },
+  {
+    "var": "i",
+    "time": 78,
+    "flipped_bit": 6
+  },
+  {
+    "var": "i",
+    "time": 98,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[3][3]",
+    "time": 82,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[1][0]",
+    "time": 138,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 137,
+    "flipped_bit": 14
+  },
+  {
+    "var": "k",
+    "time": 62,
+    "flipped_bit": 30
+  },
+  {
+    "var": "a[1][1]",
+    "time": 134,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 14,
+    "flipped_bit": 14
+  },
+  {
+    "var": "acc",
+    "time": 166,
+    "flipped_bit": 30
+  },
+  {
+    "var": "size",
+    "time": 162,
+    "flipped_bit": 18
+  },
+  {
+    "var": "k",
+    "time": 101,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 103,
+    "flipped_bit": 29
+  },
+  {
+    "var": "result[2][1]",
+    "time": 139,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 39,
+    "flipped_bit": 18
+  },
+  {
+    "var": "b[2][3]",
+    "time": 57,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 62,
+    "flipped_bit": 26
+  },
+  {
+    "var": "size",
+    "time": 20,
+    "flipped_bit": 14
+  },
+  {
+    "var": "j",
+    "time": 54,
+    "flipped_bit": 15
+  },
+  {
+    "var": "a[2][3]",
+    "time": 12,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 122,
+    "flipped_bit": 6
+  },
+  {
+    "var": "result[1][1]",
+    "time": 93,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[2][2]",
+    "time": 142,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[2][0]",
+    "time": 108,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[0][0]",
+    "time": 91,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 124,
+    "flipped_bit": 28
+  },
+  {
+    "var": "i",
+    "time": 118,
+    "flipped_bit": 23
+  },
+  {
+    "var": "a[1][1]",
+    "time": 2,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 30,
+    "flipped_bit": 6
+  },
+  {
+    "var": "acc",
+    "time": 165,
+    "flipped_bit": 17
+  },
+  {
+    "var": "j",
+    "time": 90,
+    "flipped_bit": 7
+  },
+  {
+    "var": "size",
+    "time": 67,
+    "flipped_bit": 16
+  },
+  {
+    "var": "a[3][0]",
+    "time": 104,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 177,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 177,
+    "flipped_bit": 4
+  },
+  {
+    "var": "b[2][2]",
+    "time": 126,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 169,
+    "flipped_bit": 25
+  },
+  {
+    "var": "j",
+    "time": 165,
+    "flipped_bit": 15
+  },
+  {
+    "var": "acc",
+    "time": 138,
+    "flipped_bit": 23
+  },
+  {
+    "var": "result[0][3]",
+    "time": 67,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 139,
+    "flipped_bit": 26
+  },
+  {
+    "var": "result[0][1]",
+    "time": 155,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 113,
+    "flipped_bit": 17
+  },
+  {
+    "var": "result[1][1]",
+    "time": 179,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 59,
+    "flipped_bit": 25
+  },
+  {
+    "var": "i",
+    "time": 110,
+    "flipped_bit": 9
+  },
+  {
+    "var": "j",
+    "time": 165,
+    "flipped_bit": 7
+  },
+  {
+    "var": "result[0][1]",
+    "time": 143,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[2][2]",
+    "time": 20,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 146,
+    "flipped_bit": 31
+  },
+  {
+    "var": "k",
+    "time": 169,
+    "flipped_bit": 27
+  },
+  {
+    "var": "i",
+    "time": 177,
+    "flipped_bit": 25
+  },
+  {
+    "var": "acc",
+    "time": 138,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 143,
+    "flipped_bit": 7
+  },
+  {
+    "var": "size",
+    "time": 38,
+    "flipped_bit": 16
+  },
+  {
+    "var": "j",
+    "time": 86,
+    "flipped_bit": 20
+  },
+  {
+    "var": "j",
+    "time": 90,
+    "flipped_bit": 19
+  },
+  {
+    "var": "size",
+    "time": 45,
+    "flipped_bit": 8
+  },
+  {
+    "var": "a[0][0]",
+    "time": 115,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 81,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 83,
+    "flipped_bit": 19
+  },
+  {
+    "var": "result[2][3]",
+    "time": 84,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[2][0]",
+    "time": 154,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[3][3]",
+    "time": 178,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 75,
+    "flipped_bit": 18
+  },
+  {
+    "var": "a[3][3]",
+    "time": 171,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 124,
+    "flipped_bit": 13
+  },
+  {
+    "var": "size",
+    "time": 45,
+    "flipped_bit": 31
+  },
+  {
+    "var": "acc",
+    "time": 134,
+    "flipped_bit": 31
+  },
+  {
+    "var": "a[0][3]",
+    "time": 181,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 68,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 21,
+    "flipped_bit": 22
+  },
+  {
+    "var": "size",
+    "time": 110,
+    "flipped_bit": 29
+  },
+  {
+    "var": "a[3][1]",
+    "time": 112,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 22,
+    "flipped_bit": 20
+  },
+  {
+    "var": "result[3][2]",
+    "time": 7,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[0][3]",
+    "time": 34,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 176,
+    "flipped_bit": 14
+  },
+  {
+    "var": "acc",
+    "time": 34,
+    "flipped_bit": 25
+  },
+  {
+    "var": "a[0][0]",
+    "time": 22,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 116,
+    "flipped_bit": 10
+  },
+  {
+    "var": "j",
+    "time": 28,
+    "flipped_bit": 31
+  },
+  {
+    "var": "j",
+    "time": 134,
+    "flipped_bit": 12
+  },
+  {
+    "var": "k",
+    "time": 17,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 89,
+    "flipped_bit": 9
+  },
+  {
+    "var": "b[0][3]",
+    "time": 189,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 151,
+    "flipped_bit": 24
+  },
+  {
+    "var": "k",
+    "time": 165,
+    "flipped_bit": 23
+  },
+  {
+    "var": "k",
+    "time": 48,
+    "flipped_bit": 27
+  },
+  {
+    "var": "size",
+    "time": 135,
+    "flipped_bit": 28
+  },
+  {
+    "var": "j",
+    "time": 116,
+    "flipped_bit": 6
+  },
+  {
+    "var": "result[0][3]",
+    "time": 118,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 177,
+    "flipped_bit": 5
+  },
+  {
+    "var": "a[3][0]",
+    "time": 18,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 4,
+    "flipped_bit": 19
+  },
+  {
+    "var": "i",
+    "time": 149,
+    "flipped_bit": 23
+  },
+  {
+    "var": "k",
+    "time": 64,
+    "flipped_bit": 25
+  },
+  {
+    "var": "k",
+    "time": 15,
+    "flipped_bit": 8
+  },
+  {
+    "var": "a[3][2]",
+    "time": 190,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[2][3]",
+    "time": 46,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 4,
+    "flipped_bit": 16
+  },
+  {
+    "var": "j",
+    "time": 101,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 44,
+    "flipped_bit": 17
+  },
+  {
+    "var": "acc",
+    "time": 185,
+    "flipped_bit": 16
+  },
+  {
+    "var": "j",
+    "time": 174,
+    "flipped_bit": 13
+  },
+  {
+    "var": "j",
+    "time": 87,
+    "flipped_bit": 25
+  },
+  {
+    "var": "size",
+    "time": 182,
+    "flipped_bit": 25
+  },
+  {
+    "var": "k",
+    "time": 179,
+    "flipped_bit": 30
+  },
+  {
+    "var": "b[3][3]",
+    "time": 28,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 148,
+    "flipped_bit": 24
+  },
+  {
+    "var": "b[2][1]",
+    "time": 106,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 32,
+    "flipped_bit": 13
+  },
+  {
+    "var": "k",
+    "time": 58,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[1][3]",
+    "time": 171,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 135,
+    "flipped_bit": 16
+  },
+  {
+    "var": "b[1][1]",
+    "time": 134,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 141,
+    "flipped_bit": 5
+  },
+  {
+    "var": "size",
+    "time": 44,
+    "flipped_bit": 20
+  },
+  {
+    "var": "acc",
+    "time": 9,
+    "flipped_bit": 8
+  },
+  {
+    "var": "a[1][3]",
+    "time": 165,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 149,
+    "flipped_bit": 16
+  },
+  {
+    "var": "result[1][3]",
+    "time": 176,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 19,
+    "flipped_bit": 16
+  },
+  {
+    "var": "k",
+    "time": 187,
+    "flipped_bit": 15
+  },
+  {
+    "var": "a[3][1]",
+    "time": 58,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[0][2]",
+    "time": 21,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[2][1]",
+    "time": 111,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[0][3]",
+    "time": 118,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 154,
+    "flipped_bit": 18
+  },
+  {
+    "var": "size",
+    "time": 115,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 110,
+    "flipped_bit": 30
+  },
+  {
+    "var": "acc",
+    "time": 85,
+    "flipped_bit": 9
+  },
+  {
+    "var": "b[0][0]",
+    "time": 65,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 122,
+    "flipped_bit": 30
+  },
+  {
+    "var": "k",
+    "time": 71,
+    "flipped_bit": 15
+  },
+  {
+    "var": "acc",
+    "time": 119,
+    "flipped_bit": 28
+  },
+  {
+    "var": "k",
+    "time": 11,
+    "flipped_bit": 30
+  },
+  {
+    "var": "j",
+    "time": 126,
+    "flipped_bit": 22
+  },
+  {
+    "var": "size",
+    "time": 156,
+    "flipped_bit": 5
+  },
+  {
+    "var": "size",
+    "time": 125,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 61,
+    "flipped_bit": 7
+  },
+  {
+    "var": "size",
+    "time": 135,
+    "flipped_bit": 22
+  },
+  {
+    "var": "b[2][1]",
+    "time": 28,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 7,
+    "flipped_bit": 25
+  },
+  {
+    "var": "result[2][3]",
+    "time": 161,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 91,
+    "flipped_bit": 24
+  },
+  {
+    "var": "i",
+    "time": 43,
+    "flipped_bit": 22
+  },
+  {
+    "var": "j",
+    "time": 176,
+    "flipped_bit": 12
+  },
+  {
+    "var": "size",
+    "time": 106,
+    "flipped_bit": 21
+  },
+  {
+    "var": "i",
+    "time": 188,
+    "flipped_bit": 11
+  },
+  {
+    "var": "a[2][2]",
+    "time": 76,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 82,
+    "flipped_bit": 21
+  },
+  {
+    "var": "a[1][0]",
+    "time": 25,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 17,
+    "flipped_bit": 28
+  },
+  {
+    "var": "b[2][3]",
+    "time": 11,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 18,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[0][0]",
+    "time": 167,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 159,
+    "flipped_bit": 14
+  },
+  {
+    "var": "size",
+    "time": 70,
+    "flipped_bit": 26
+  },
+  {
+    "var": "size",
+    "time": 107,
+    "flipped_bit": 23
+  },
+  {
+    "var": "j",
+    "time": 29,
+    "flipped_bit": 27
+  },
+  {
+    "var": "a[1][0]",
+    "time": 3,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 34,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 65,
+    "flipped_bit": 14
+  },
+  {
+    "var": "acc",
+    "time": 130,
+    "flipped_bit": 7
+  },
+  {
+    "var": "a[1][0]",
+    "time": 76,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 108,
+    "flipped_bit": 8
+  },
+  {
+    "var": "acc",
+    "time": 126,
+    "flipped_bit": 5
+  },
+  {
+    "var": "i",
+    "time": 98,
+    "flipped_bit": 9
+  },
+  {
+    "var": "a[1][3]",
+    "time": 113,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 125,
+    "flipped_bit": 12
+  },
+  {
+    "var": "k",
+    "time": 174,
+    "flipped_bit": 4
+  },
+  {
+    "var": "b[3][3]",
+    "time": 27,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 20,
+    "flipped_bit": 13
+  },
+  {
+    "var": "k",
+    "time": 168,
+    "flipped_bit": 15
+  },
+  {
+    "var": "k",
+    "time": 121,
+    "flipped_bit": 8
+  },
+  {
+    "var": "size",
+    "time": 175,
+    "flipped_bit": 27
+  },
+  {
+    "var": "j",
+    "time": 70,
+    "flipped_bit": 22
+  },
+  {
+    "var": "i",
+    "time": 101,
+    "flipped_bit": 10
+  },
+  {
+    "var": "size",
+    "time": 58,
+    "flipped_bit": 6
+  },
+  {
+    "var": "j",
+    "time": 55,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[3][2]",
+    "time": 13,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 119,
+    "flipped_bit": 9
+  },
+  {
+    "var": "i",
+    "time": 5,
+    "flipped_bit": 29
+  },
+  {
+    "var": "k",
+    "time": 147,
+    "flipped_bit": 4
+  },
+  {
+    "var": "a[1][0]",
+    "time": 129,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[2][1]",
+    "time": 184,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 68,
+    "flipped_bit": 7
+  },
+  {
+    "var": "i",
+    "time": 13,
+    "flipped_bit": 25
+  },
+  {
+    "var": "result[3][0]",
+    "time": 31,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 49,
+    "flipped_bit": 25
+  },
+  {
+    "var": "b[2][2]",
+    "time": 140,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[1][0]",
+    "time": 5,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 77,
+    "flipped_bit": 6
+  },
+  {
+    "var": "a[3][1]",
+    "time": 141,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 164,
+    "flipped_bit": 30
+  },
+  {
+    "var": "size",
+    "time": 53,
+    "flipped_bit": 11
+  },
+  {
+    "var": "b[3][0]",
+    "time": 63,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 59,
+    "flipped_bit": 20
+  },
+  {
+    "var": "result[2][3]",
+    "time": 150,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 106,
+    "flipped_bit": 16
+  },
+  {
+    "var": "size",
+    "time": 6,
+    "flipped_bit": 22
+  },
+  {
+    "var": "a[3][3]",
+    "time": 6,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 150,
+    "flipped_bit": 23
+  },
+  {
+    "var": "acc",
+    "time": 137,
+    "flipped_bit": 13
+  },
+  {
+    "var": "result[0][3]",
+    "time": 63,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 53,
+    "flipped_bit": 28
+  },
+  {
+    "var": "size",
+    "time": 47,
+    "flipped_bit": 25
+  },
+  {
+    "var": "j",
+    "time": 64,
+    "flipped_bit": 23
+  },
+  {
+    "var": "acc",
+    "time": 75,
+    "flipped_bit": 9
+  },
+  {
+    "var": "b[2][2]",
+    "time": 126,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[0][3]",
+    "time": 12,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[3][3]",
+    "time": 154,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 123,
+    "flipped_bit": 8
+  },
+  {
+    "var": "acc",
+    "time": 159,
+    "flipped_bit": 22
+  },
+  {
+    "var": "size",
+    "time": 168,
+    "flipped_bit": 23
+  },
+  {
+    "var": "acc",
+    "time": 142,
+    "flipped_bit": 25
+  },
+  {
+    "var": "a[2][1]",
+    "time": 56,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 166,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 96,
+    "flipped_bit": 8
+  },
+  {
+    "var": "i",
+    "time": 4,
+    "flipped_bit": 5
+  },
+  {
+    "var": "i",
+    "time": 162,
+    "flipped_bit": 29
+  },
+  {
+    "var": "result[3][0]",
+    "time": 155,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 158,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 90,
+    "flipped_bit": 20
+  },
+  {
+    "var": "i",
+    "time": 128,
+    "flipped_bit": 29
+  },
+  {
+    "var": "j",
+    "time": 50,
+    "flipped_bit": 25
+  },
+  {
+    "var": "a[0][2]",
+    "time": 29,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 48,
+    "flipped_bit": 27
+  },
+  {
+    "var": "size",
+    "time": 50,
+    "flipped_bit": 26
+  },
+  {
+    "var": "result[3][3]",
+    "time": 69,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 189,
+    "flipped_bit": 5
+  },
+  {
+    "var": "i",
+    "time": 29,
+    "flipped_bit": 6
+  },
+  {
+    "var": "size",
+    "time": 185,
+    "flipped_bit": 16
+  },
+  {
+    "var": "b[2][3]",
+    "time": 58,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 75,
+    "flipped_bit": 14
+  },
+  {
+    "var": "a[3][1]",
+    "time": 20,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 105,
+    "flipped_bit": 19
+  },
+  {
+    "var": "b[2][1]",
+    "time": 188,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 140,
+    "flipped_bit": 5
+  },
+  {
+    "var": "a[2][0]",
+    "time": 51,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[2][1]",
+    "time": 95,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 3,
+    "flipped_bit": 23
+  },
+  {
+    "var": "a[3][3]",
+    "time": 118,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 5,
+    "flipped_bit": 19
+  },
+  {
+    "var": "b[1][2]",
+    "time": 12,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 106,
+    "flipped_bit": 23
+  },
+  {
+    "var": "k",
+    "time": 67,
+    "flipped_bit": 6
+  },
+  {
+    "var": "k",
+    "time": 86,
+    "flipped_bit": 12
+  },
+  {
+    "var": "acc",
+    "time": 182,
+    "flipped_bit": 14
+  },
+  {
+    "var": "a[0][0]",
+    "time": 173,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[1][2]",
+    "time": 175,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[1][2]",
+    "time": 96,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 34,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[1][2]",
+    "time": 184,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[3][2]",
+    "time": 159,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[0][3]",
+    "time": 154,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[1][1]",
+    "time": 135,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 35,
+    "flipped_bit": 15
+  },
+  {
+    "var": "size",
+    "time": 68,
+    "flipped_bit": 27
+  },
+  {
+    "var": "a[0][2]",
+    "time": 83,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[2][2]",
+    "time": 170,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 3,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 14,
+    "flipped_bit": 16
+  },
+  {
+    "var": "j",
+    "time": 148,
+    "flipped_bit": 30
+  },
+  {
+    "var": "i",
+    "time": 95,
+    "flipped_bit": 21
+  },
+  {
+    "var": "result[0][0]",
+    "time": 121,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 122,
+    "flipped_bit": 21
+  },
+  {
+    "var": "j",
+    "time": 155,
+    "flipped_bit": 18
+  },
+  {
+    "var": "size",
+    "time": 8,
+    "flipped_bit": 8
+  },
+  {
+    "var": "a[1][0]",
+    "time": 186,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 52,
+    "flipped_bit": 7
+  },
+  {
+    "var": "b[2][2]",
+    "time": 53,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[1][1]",
+    "time": 111,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 152,
+    "flipped_bit": 4
+  },
+  {
+    "var": "size",
+    "time": 41,
+    "flipped_bit": 28
+  },
+  {
+    "var": "j",
+    "time": 95,
+    "flipped_bit": 14
+  },
+  {
+    "var": "i",
+    "time": 161,
+    "flipped_bit": 12
+  },
+  {
+    "var": "k",
+    "time": 104,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 118,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 124,
+    "flipped_bit": 24
+  },
+  {
+    "var": "acc",
+    "time": 121,
+    "flipped_bit": 18
+  },
+  {
+    "var": "j",
+    "time": 161,
+    "flipped_bit": 7
+  },
+  {
+    "var": "j",
+    "time": 26,
+    "flipped_bit": 23
+  },
+  {
+    "var": "size",
+    "time": 59,
+    "flipped_bit": 10
+  },
+  {
+    "var": "result[1][0]",
+    "time": 148,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 47,
+    "flipped_bit": 10
+  },
+  {
+    "var": "i",
+    "time": 43,
+    "flipped_bit": 9
+  },
+  {
+    "var": "result[2][3]",
+    "time": 52,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 169,
+    "flipped_bit": 6
+  },
+  {
+    "var": "i",
+    "time": 145,
+    "flipped_bit": 30
+  },
+  {
+    "var": "i",
+    "time": 103,
+    "flipped_bit": 16
+  },
+  {
+    "var": "k",
+    "time": 87,
+    "flipped_bit": 18
+  },
+  {
+    "var": "j",
+    "time": 9,
+    "flipped_bit": 10
+  },
+  {
+    "var": "k",
+    "time": 81,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[1][0]",
+    "time": 93,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[1][3]",
+    "time": 106,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 88,
+    "flipped_bit": 14
+  },
+  {
+    "var": "acc",
+    "time": 166,
+    "flipped_bit": 4
+  },
+  {
+    "var": "a[1][2]",
+    "time": 11,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 77,
+    "flipped_bit": 27
+  },
+  {
+    "var": "result[0][3]",
+    "time": 164,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 163,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 6,
+    "flipped_bit": 28
+  },
+  {
+    "var": "acc",
+    "time": 44,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 34,
+    "flipped_bit": 10
+  },
+  {
+    "var": "k",
+    "time": 127,
+    "flipped_bit": 9
+  },
+  {
+    "var": "result[1][2]",
+    "time": 147,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 33,
+    "flipped_bit": 15
+  },
+  {
+    "var": "k",
+    "time": 169,
+    "flipped_bit": 13
+  },
+  {
+    "var": "a[0][0]",
+    "time": 162,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 105,
+    "flipped_bit": 24
+  },
+  {
+    "var": "i",
+    "time": 35,
+    "flipped_bit": 21
+  },
+  {
+    "var": "acc",
+    "time": 104,
+    "flipped_bit": 17
+  },
+  {
+    "var": "acc",
+    "time": 183,
+    "flipped_bit": 18
+  },
+  {
+    "var": "k",
+    "time": 99,
+    "flipped_bit": 8
+  },
+  {
+    "var": "a[3][3]",
+    "time": 91,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[0][2]",
+    "time": 44,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 59,
+    "flipped_bit": 28
+  },
+  {
+    "var": "result[1][0]",
+    "time": 157,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[2][0]",
+    "time": 93,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[1][3]",
+    "time": 58,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 142,
+    "flipped_bit": 12
+  },
+  {
+    "var": "i",
+    "time": 158,
+    "flipped_bit": 25
+  },
+  {
+    "var": "k",
+    "time": 163,
+    "flipped_bit": 29
+  },
+  {
+    "var": "a[2][2]",
+    "time": 16,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[2][1]",
+    "time": 67,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 24,
+    "flipped_bit": 23
+  },
+  {
+    "var": "acc",
+    "time": 172,
+    "flipped_bit": 21
+  },
+  {
+    "var": "acc",
+    "time": 39,
+    "flipped_bit": 11
+  },
+  {
+    "var": "a[0][2]",
+    "time": 10,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[1][0]",
+    "time": 144,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[1][2]",
+    "time": 28,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 120,
+    "flipped_bit": 19
+  },
+  {
+    "var": "i",
+    "time": 21,
+    "flipped_bit": 6
+  },
+  {
+    "var": "size",
+    "time": 150,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[2][1]",
+    "time": 121,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 106,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[1][2]",
+    "time": 119,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[0][0]",
+    "time": 9,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 78,
+    "flipped_bit": 23
+  },
+  {
+    "var": "acc",
+    "time": 89,
+    "flipped_bit": 25
+  },
+  {
+    "var": "k",
+    "time": 92,
+    "flipped_bit": 27
+  },
+  {
+    "var": "b[0][1]",
+    "time": 37,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[1][2]",
+    "time": 56,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 116,
+    "flipped_bit": 19
+  },
+  {
+    "var": "size",
+    "time": 63,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 33,
+    "flipped_bit": 19
+  },
+  {
+    "var": "i",
+    "time": 68,
+    "flipped_bit": 10
+  },
+  {
+    "var": "size",
+    "time": 26,
+    "flipped_bit": 5
+  },
+  {
+    "var": "i",
+    "time": 152,
+    "flipped_bit": 14
+  },
+  {
+    "var": "result[1][0]",
+    "time": 15,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 24,
+    "flipped_bit": 28
+  },
+  {
+    "var": "k",
+    "time": 95,
+    "flipped_bit": 21
+  },
+  {
+    "var": "size",
+    "time": 184,
+    "flipped_bit": 21
+  },
+  {
+    "var": "j",
+    "time": 78,
+    "flipped_bit": 14
+  },
+  {
+    "var": "result[0][3]",
+    "time": 144,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 87,
+    "flipped_bit": 9
+  },
+  {
+    "var": "j",
+    "time": 108,
+    "flipped_bit": 25
+  },
+  {
+    "var": "acc",
+    "time": 38,
+    "flipped_bit": 11
+  },
+  {
+    "var": "k",
+    "time": 85,
+    "flipped_bit": 27
+  },
+  {
+    "var": "a[1][0]",
+    "time": 136,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[0][2]",
+    "time": 72,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[2][3]",
+    "time": 150,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 144,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[2][3]",
+    "time": 106,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 164,
+    "flipped_bit": 26
+  },
+  {
+    "var": "j",
+    "time": 28,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 162,
+    "flipped_bit": 14
+  },
+  {
+    "var": "i",
+    "time": 77,
+    "flipped_bit": 24
+  },
+  {
+    "var": "i",
+    "time": 29,
+    "flipped_bit": 23
+  },
+  {
+    "var": "k",
+    "time": 94,
+    "flipped_bit": 23
+  },
+  {
+    "var": "k",
+    "time": 175,
+    "flipped_bit": 4
+  },
+  {
+    "var": "b[3][1]",
+    "time": 156,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 170,
+    "flipped_bit": 25
+  },
+  {
+    "var": "k",
+    "time": 156,
+    "flipped_bit": 26
+  },
+  {
+    "var": "k",
+    "time": 93,
+    "flipped_bit": 6
+  },
+  {
+    "var": "i",
+    "time": 144,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[3][1]",
+    "time": 133,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[0][0]",
+    "time": 55,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[0][0]",
+    "time": 67,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[1][0]",
+    "time": 51,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 26,
+    "flipped_bit": 19
+  },
+  {
+    "var": "result[2][0]",
+    "time": 176,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[1][3]",
+    "time": 49,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 106,
+    "flipped_bit": 4
+  },
+  {
+    "var": "b[2][2]",
+    "time": 32,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[1][3]",
+    "time": 166,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[1][0]",
+    "time": 47,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 188,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 109,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[3][0]",
+    "time": 122,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[2][1]",
+    "time": 93,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[1][0]",
+    "time": 184,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[0][1]",
+    "time": 149,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[1][2]",
+    "time": 116,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 61,
+    "flipped_bit": 30
+  },
+  {
+    "var": "b[2][2]",
+    "time": 103,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[3][0]",
+    "time": 175,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[2][0]",
+    "time": 57,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[0][2]",
+    "time": 127,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[1][1]",
+    "time": 50,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[1][1]",
+    "time": 182,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 98,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 20,
+    "flipped_bit": 29
+  },
+  {
+    "var": "j",
+    "time": 105,
+    "flipped_bit": 11
+  },
+  {
+    "var": "i",
+    "time": 13,
+    "flipped_bit": 7
+  },
+  {
+    "var": "acc",
+    "time": 158,
+    "flipped_bit": 14
+  },
+  {
+    "var": "result[2][2]",
+    "time": 143,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[3][2]",
+    "time": 111,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 75,
+    "flipped_bit": 15
+  },
+  {
+    "var": "acc",
+    "time": 114,
+    "flipped_bit": 18
+  },
+  {
+    "var": "acc",
+    "time": 55,
+    "flipped_bit": 24
+  },
+  {
+    "var": "result[0][1]",
+    "time": 49,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[2][2]",
+    "time": 178,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 15,
+    "flipped_bit": 21
+  },
+  {
+    "var": "acc",
+    "time": 114,
+    "flipped_bit": 7
+  },
+  {
+    "var": "i",
+    "time": 81,
+    "flipped_bit": 18
+  },
+  {
+    "var": "i",
+    "time": 135,
+    "flipped_bit": 23
+  },
+  {
+    "var": "k",
+    "time": 121,
+    "flipped_bit": 19
+  },
+  {
+    "var": "b[3][0]",
+    "time": 144,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 110,
+    "flipped_bit": 29
+  },
+  {
+    "var": "j",
+    "time": 122,
+    "flipped_bit": 6
+  },
+  {
+    "var": "k",
+    "time": 27,
+    "flipped_bit": 25
+  },
+  {
+    "var": "j",
+    "time": 25,
+    "flipped_bit": 22
+  },
+  {
+    "var": "size",
+    "time": 125,
+    "flipped_bit": 24
+  },
+  {
+    "var": "a[2][0]",
+    "time": 94,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[0][0]",
+    "time": 124,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 21,
+    "flipped_bit": 14
+  },
+  {
+    "var": "result[0][2]",
+    "time": 12,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 174,
+    "flipped_bit": 11
+  },
+  {
+    "var": "a[0][2]",
+    "time": 140,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 150,
+    "flipped_bit": 27
+  },
+  {
+    "var": "k",
+    "time": 90,
+    "flipped_bit": 4
+  },
+  {
+    "var": "result[2][0]",
+    "time": 134,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[1][0]",
+    "time": 156,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 140,
+    "flipped_bit": 7
+  },
+  {
+    "var": "acc",
+    "time": 50,
+    "flipped_bit": 9
+  },
+  {
+    "var": "result[3][2]",
+    "time": 146,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 2,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 145,
+    "flipped_bit": 31
+  },
+  {
+    "var": "j",
+    "time": 47,
+    "flipped_bit": 29
+  },
+  {
+    "var": "a[1][3]",
+    "time": 92,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[2][1]",
+    "time": 89,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[1][2]",
+    "time": 57,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[1][3]",
+    "time": 156,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 92,
+    "flipped_bit": 5
+  },
+  {
+    "var": "result[2][1]",
+    "time": 135,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[1][0]",
+    "time": 130,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 16,
+    "flipped_bit": 8
+  },
+  {
+    "var": "size",
+    "time": 121,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 123,
+    "flipped_bit": 31
+  },
+  {
+    "var": "b[2][1]",
+    "time": 146,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[1][2]",
+    "time": 20,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 105,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[3][1]",
+    "time": 82,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 182,
+    "flipped_bit": 25
+  },
+  {
+    "var": "j",
+    "time": 43,
+    "flipped_bit": 30
+  },
+  {
+    "var": "acc",
+    "time": 34,
+    "flipped_bit": 7
+  },
+  {
+    "var": "acc",
+    "time": 131,
+    "flipped_bit": 20
+  },
+  {
+    "var": "b[1][1]",
+    "time": 188,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 140,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[0][2]",
+    "time": 75,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 125,
+    "flipped_bit": 28
+  },
+  {
+    "var": "i",
+    "time": 47,
+    "flipped_bit": 26
+  },
+  {
+    "var": "acc",
+    "time": 174,
+    "flipped_bit": 10
+  },
+  {
+    "var": "acc",
+    "time": 23,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 171,
+    "flipped_bit": 31
+  },
+  {
+    "var": "j",
+    "time": 38,
+    "flipped_bit": 4
+  },
+  {
+    "var": "i",
+    "time": 155,
+    "flipped_bit": 20
+  },
+  {
+    "var": "result[1][3]",
+    "time": 22,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 26,
+    "flipped_bit": 16
+  },
+  {
+    "var": "result[1][1]",
+    "time": 182,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 25,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 182,
+    "flipped_bit": 18
+  },
+  {
+    "var": "result[2][1]",
+    "time": 16,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 73,
+    "flipped_bit": 11
+  },
+  {
+    "var": "size",
+    "time": 45,
+    "flipped_bit": 29
+  },
+  {
+    "var": "a[0][3]",
+    "time": 28,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 65,
+    "flipped_bit": 13
+  },
+  {
+    "var": "a[3][0]",
+    "time": 32,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 126,
+    "flipped_bit": 14
+  },
+  {
+    "var": "result[2][2]",
+    "time": 162,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 1,
+    "flipped_bit": 27
+  },
+  {
+    "var": "j",
+    "time": 28,
+    "flipped_bit": 6
+  },
+  {
+    "var": "a[1][2]",
+    "time": 136,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 84,
+    "flipped_bit": 4
+  },
+  {
+    "var": "acc",
+    "time": 169,
+    "flipped_bit": 22
+  },
+  {
+    "var": "acc",
+    "time": 109,
+    "flipped_bit": 25
+  },
+  {
+    "var": "result[3][2]",
+    "time": 30,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 12,
+    "flipped_bit": 9
+  },
+  {
+    "var": "k",
+    "time": 158,
+    "flipped_bit": 18
+  },
+  {
+    "var": "j",
+    "time": 158,
+    "flipped_bit": 27
+  },
+  {
+    "var": "a[0][1]",
+    "time": 21,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 166,
+    "flipped_bit": 14
+  },
+  {
+    "var": "j",
+    "time": 84,
+    "flipped_bit": 4
+  },
+  {
+    "var": "k",
+    "time": 58,
+    "flipped_bit": 21
+  },
+  {
+    "var": "i",
+    "time": 136,
+    "flipped_bit": 6
+  },
+  {
+    "var": "b[3][2]",
+    "time": 20,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 102,
+    "flipped_bit": 4
+  },
+  {
+    "var": "k",
+    "time": 21,
+    "flipped_bit": 9
+  },
+  {
+    "var": "j",
+    "time": 88,
+    "flipped_bit": 11
+  },
+  {
+    "var": "j",
+    "time": 95,
+    "flipped_bit": 17
+  },
+  {
+    "var": "b[1][0]",
+    "time": 115,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 182,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[3][2]",
+    "time": 147,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 164,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 55,
+    "flipped_bit": 11
+  },
+  {
+    "var": "k",
+    "time": 123,
+    "flipped_bit": 4
+  },
+  {
+    "var": "i",
+    "time": 42,
+    "flipped_bit": 6
+  },
+  {
+    "var": "result[2][0]",
+    "time": 179,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 177,
+    "flipped_bit": 8
+  },
+  {
+    "var": "acc",
+    "time": 113,
+    "flipped_bit": 26
+  },
+  {
+    "var": "acc",
+    "time": 112,
+    "flipped_bit": 14
+  },
+  {
+    "var": "k",
+    "time": 84,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 151,
+    "flipped_bit": 24
+  },
+  {
+    "var": "b[3][0]",
+    "time": 51,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[1][2]",
+    "time": 28,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[1][3]",
+    "time": 104,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 52,
+    "flipped_bit": 28
+  },
+  {
+    "var": "size",
+    "time": 186,
+    "flipped_bit": 22
+  },
+  {
+    "var": "size",
+    "time": 166,
+    "flipped_bit": 24
+  },
+  {
+    "var": "a[2][0]",
+    "time": 49,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 51,
+    "flipped_bit": 20
+  },
+  {
+    "var": "j",
+    "time": 87,
+    "flipped_bit": 24
+  },
+  {
+    "var": "i",
+    "time": 177,
+    "flipped_bit": 23
+  },
+  {
+    "var": "i",
+    "time": 26,
+    "flipped_bit": 18
+  },
+  {
+    "var": "a[3][2]",
+    "time": 80,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 181,
+    "flipped_bit": 11
+  },
+  {
+    "var": "b[2][1]",
+    "time": 23,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 173,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 150,
+    "flipped_bit": 24
+  },
+  {
+    "var": "acc",
+    "time": 125,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[0][2]",
+    "time": 14,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 143,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[2][0]",
+    "time": 99,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 59,
+    "flipped_bit": 11
+  },
+  {
+    "var": "k",
+    "time": 20,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 121,
+    "flipped_bit": 5
+  },
+  {
+    "var": "i",
+    "time": 166,
+    "flipped_bit": 6
+  },
+  {
+    "var": "j",
+    "time": 180,
+    "flipped_bit": 11
+  },
+  {
+    "var": "result[3][0]",
+    "time": 42,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 11,
+    "flipped_bit": 31
+  },
+  {
+    "var": "acc",
+    "time": 116,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 41,
+    "flipped_bit": 26
+  },
+  {
+    "var": "acc",
+    "time": 63,
+    "flipped_bit": 27
+  },
+  {
+    "var": "acc",
+    "time": 156,
+    "flipped_bit": 4
+  },
+  {
+    "var": "result[0][0]",
+    "time": 126,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 154,
+    "flipped_bit": 25
+  },
+  {
+    "var": "acc",
+    "time": 16,
+    "flipped_bit": 5
+  },
+  {
+    "var": "k",
+    "time": 131,
+    "flipped_bit": 10
+  },
+  {
+    "var": "result[2][2]",
+    "time": 71,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 178,
+    "flipped_bit": 27
+  },
+  {
+    "var": "acc",
+    "time": 116,
+    "flipped_bit": 20
+  },
+  {
+    "var": "i",
+    "time": 51,
+    "flipped_bit": 10
+  },
+  {
+    "var": "size",
+    "time": 25,
+    "flipped_bit": 18
+  },
+  {
+    "var": "result[3][0]",
+    "time": 28,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 49,
+    "flipped_bit": 16
+  },
+  {
+    "var": "size",
+    "time": 102,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[3][1]",
+    "time": 140,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[0][0]",
+    "time": 110,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[2][3]",
+    "time": 135,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 94,
+    "flipped_bit": 13
+  },
+  {
+    "var": "acc",
+    "time": 78,
+    "flipped_bit": 31
+  },
+  {
+    "var": "i",
+    "time": 174,
+    "flipped_bit": 10
+  },
+  {
+    "var": "j",
+    "time": 132,
+    "flipped_bit": 19
+  },
+  {
+    "var": "j",
+    "time": 190,
+    "flipped_bit": 30
+  },
+  {
+    "var": "j",
+    "time": 86,
+    "flipped_bit": 19
+  },
+  {
+    "var": "result[1][1]",
+    "time": 81,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 19,
+    "flipped_bit": 31
+  },
+  {
+    "var": "a[3][0]",
+    "time": 46,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 36,
+    "flipped_bit": 22
+  },
+  {
+    "var": "k",
+    "time": 65,
+    "flipped_bit": 11
+  },
+  {
+    "var": "a[3][3]",
+    "time": 175,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 32,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[1][1]",
+    "time": 152,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[2][3]",
+    "time": 134,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 187,
+    "flipped_bit": 24
+  },
+  {
+    "var": "acc",
+    "time": 81,
+    "flipped_bit": 21
+  },
+  {
+    "var": "j",
+    "time": 14,
+    "flipped_bit": 31
+  },
+  {
+    "var": "i",
+    "time": 86,
+    "flipped_bit": 7
+  },
+  {
+    "var": "k",
+    "time": 32,
+    "flipped_bit": 24
+  },
+  {
+    "var": "i",
+    "time": 173,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[1][2]",
+    "time": 166,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 123,
+    "flipped_bit": 7
+  },
+  {
+    "var": "i",
+    "time": 19,
+    "flipped_bit": 10
+  },
+  {
+    "var": "acc",
+    "time": 103,
+    "flipped_bit": 17
+  },
+  {
+    "var": "i",
+    "time": 34,
+    "flipped_bit": 22
+  },
+  {
+    "var": "i",
+    "time": 145,
+    "flipped_bit": 8
+  },
+  {
+    "var": "j",
+    "time": 109,
+    "flipped_bit": 19
+  },
+  {
+    "var": "k",
+    "time": 146,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[2][3]",
+    "time": 108,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 183,
+    "flipped_bit": 14
+  },
+  {
+    "var": "i",
+    "time": 99,
+    "flipped_bit": 6
+  },
+  {
+    "var": "k",
+    "time": 164,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[1][3]",
+    "time": 21,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 24,
+    "flipped_bit": 17
+  },
+  {
+    "var": "size",
+    "time": 146,
+    "flipped_bit": 31
+  },
+  {
+    "var": "size",
+    "time": 180,
+    "flipped_bit": 14
+  },
+  {
+    "var": "a[0][3]",
+    "time": 156,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[1][3]",
+    "time": 66,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 33,
+    "flipped_bit": 24
+  },
+  {
+    "var": "result[1][3]",
+    "time": 178,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[0][3]",
+    "time": 119,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 24,
+    "flipped_bit": 4
+  },
+  {
+    "var": "size",
+    "time": 76,
+    "flipped_bit": 5
+  },
+  {
+    "var": "b[1][2]",
+    "time": 38,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 153,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[2][1]",
+    "time": 28,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[3][2]",
+    "time": 14,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[0][3]",
+    "time": 80,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[2][3]",
+    "time": 177,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[2][2]",
+    "time": 40,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 81,
+    "flipped_bit": 17
+  },
+  {
+    "var": "acc",
+    "time": 124,
+    "flipped_bit": 24
+  },
+  {
+    "var": "a[2][1]",
+    "time": 118,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[2][0]",
+    "time": 44,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[0][3]",
+    "time": 46,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 66,
+    "flipped_bit": 28
+  },
+  {
+    "var": "result[2][3]",
+    "time": 43,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 153,
+    "flipped_bit": 25
+  },
+  {
+    "var": "size",
+    "time": 19,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[3][3]",
+    "time": 168,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 144,
+    "flipped_bit": 21
+  },
+  {
+    "var": "i",
+    "time": 60,
+    "flipped_bit": 5
+  },
+  {
+    "var": "acc",
+    "time": 27,
+    "flipped_bit": 18
+  },
+  {
+    "var": "b[2][0]",
+    "time": 79,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[3][2]",
+    "time": 71,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 96,
+    "flipped_bit": 25
+  },
+  {
+    "var": "j",
+    "time": 171,
+    "flipped_bit": 28
+  },
+  {
+    "var": "result[3][0]",
+    "time": 58,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[0][3]",
+    "time": 174,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 6,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[2][1]",
+    "time": 72,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 185,
+    "flipped_bit": 11
+  },
+  {
+    "var": "acc",
+    "time": 80,
+    "flipped_bit": 24
+  },
+  {
+    "var": "i",
+    "time": 88,
+    "flipped_bit": 4
+  },
+  {
+    "var": "b[0][0]",
+    "time": 123,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 61,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[2][0]",
+    "time": 181,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 42,
+    "flipped_bit": 19
+  },
+  {
+    "var": "size",
+    "time": 130,
+    "flipped_bit": 8
+  },
+  {
+    "var": "i",
+    "time": 110,
+    "flipped_bit": 22
+  },
+  {
+    "var": "result[1][3]",
+    "time": 89,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[3][3]",
+    "time": 47,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 178,
+    "flipped_bit": 5
+  },
+  {
+    "var": "size",
+    "time": 181,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[0][3]",
+    "time": 166,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[2][3]",
+    "time": 183,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[2][3]",
+    "time": 59,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[0][1]",
+    "time": 118,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 178,
+    "flipped_bit": 16
+  },
+  {
+    "var": "b[3][0]",
+    "time": 109,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[3][2]",
+    "time": 9,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 71,
+    "flipped_bit": 18
+  },
+  {
+    "var": "a[3][2]",
+    "time": 90,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 122,
+    "flipped_bit": 14
+  },
+  {
+    "var": "a[3][3]",
+    "time": 136,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[2][0]",
+    "time": 168,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 149,
+    "flipped_bit": 26
+  },
+  {
+    "var": "size",
+    "time": 97,
+    "flipped_bit": 27
+  },
+  {
+    "var": "k",
+    "time": 75,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 110,
+    "flipped_bit": 7
+  },
+  {
+    "var": "j",
+    "time": 66,
+    "flipped_bit": 17
+  },
+  {
+    "var": "result[0][0]",
+    "time": 65,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 123,
+    "flipped_bit": 17
+  },
+  {
+    "var": "i",
+    "time": 89,
+    "flipped_bit": 24
+  },
+  {
+    "var": "k",
+    "time": 66,
+    "flipped_bit": 16
+  },
+  {
+    "var": "j",
+    "time": 31,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 96,
+    "flipped_bit": 22
+  },
+  {
+    "var": "j",
+    "time": 55,
+    "flipped_bit": 29
+  },
+  {
+    "var": "j",
+    "time": 159,
+    "flipped_bit": 8
+  },
+  {
+    "var": "k",
+    "time": 115,
+    "flipped_bit": 21
+  },
+  {
+    "var": "size",
+    "time": 159,
+    "flipped_bit": 24
+  },
+  {
+    "var": "b[1][3]",
+    "time": 135,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 144,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 170,
+    "flipped_bit": 13
+  },
+  {
+    "var": "b[2][3]",
+    "time": 113,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[2][3]",
+    "time": 116,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 70,
+    "flipped_bit": 30
+  },
+  {
+    "var": "result[1][1]",
+    "time": 30,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[3][1]",
+    "time": 162,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 156,
+    "flipped_bit": 18
+  },
+  {
+    "var": "size",
+    "time": 181,
+    "flipped_bit": 18
+  },
+  {
+    "var": "i",
+    "time": 50,
+    "flipped_bit": 8
+  },
+  {
+    "var": "result[3][3]",
+    "time": 52,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[1][0]",
+    "time": 76,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 98,
+    "flipped_bit": 13
+  },
+  {
+    "var": "i",
+    "time": 92,
+    "flipped_bit": 21
+  },
+  {
+    "var": "j",
+    "time": 6,
+    "flipped_bit": 14
+  },
+  {
+    "var": "size",
+    "time": 190,
+    "flipped_bit": 19
+  },
+  {
+    "var": "size",
+    "time": 73,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 159,
+    "flipped_bit": 23
+  },
+  {
+    "var": "result[0][3]",
+    "time": 3,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[3][1]",
+    "time": 83,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 39,
+    "flipped_bit": 22
+  },
+  {
+    "var": "i",
+    "time": 166,
+    "flipped_bit": 13
+  },
+  {
+    "var": "b[3][2]",
+    "time": 66,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[1][1]",
+    "time": 83,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 86,
+    "flipped_bit": 13
+  },
+  {
+    "var": "k",
+    "time": 182,
+    "flipped_bit": 25
+  },
+  {
+    "var": "b[0][2]",
+    "time": 28,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[0][3]",
+    "time": 171,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 95,
+    "flipped_bit": 12
+  },
+  {
+    "var": "b[0][1]",
+    "time": 166,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 95,
+    "flipped_bit": 25
+  },
+  {
+    "var": "acc",
+    "time": 19,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 147,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 161,
+    "flipped_bit": 26
+  },
+  {
+    "var": "b[0][3]",
+    "time": 20,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[2][1]",
+    "time": 179,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 55,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 130,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[1][2]",
+    "time": 134,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 97,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 21,
+    "flipped_bit": 12
+  },
+  {
+    "var": "k",
+    "time": 110,
+    "flipped_bit": 27
+  },
+  {
+    "var": "b[0][0]",
+    "time": 159,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 101,
+    "flipped_bit": 11
+  },
+  {
+    "var": "acc",
+    "time": 66,
+    "flipped_bit": 12
+  },
+  {
+    "var": "k",
+    "time": 129,
+    "flipped_bit": 9
+  },
+  {
+    "var": "size",
+    "time": 62,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[3][2]",
+    "time": 90,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 184,
+    "flipped_bit": 9
+  },
+  {
+    "var": "b[1][3]",
+    "time": 67,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 128,
+    "flipped_bit": 9
+  },
+  {
+    "var": "i",
+    "time": 153,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[3][0]",
+    "time": 70,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 16,
+    "flipped_bit": 23
+  },
+  {
+    "var": "acc",
+    "time": 156,
+    "flipped_bit": 5
+  },
+  {
+    "var": "a[2][0]",
+    "time": 106,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 120,
+    "flipped_bit": 9
+  },
+  {
+    "var": "acc",
+    "time": 176,
+    "flipped_bit": 18
+  },
+  {
+    "var": "i",
+    "time": 58,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 98,
+    "flipped_bit": 18
+  },
+  {
+    "var": "size",
+    "time": 68,
+    "flipped_bit": 28
+  },
+  {
+    "var": "a[2][1]",
+    "time": 140,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[3][1]",
+    "time": 168,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[3][2]",
+    "time": 164,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[0][3]",
+    "time": 138,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[3][2]",
+    "time": 173,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[2][3]",
+    "time": 159,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 55,
+    "flipped_bit": 30
+  },
+  {
+    "var": "size",
+    "time": 18,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 7,
+    "flipped_bit": 11
+  },
+  {
+    "var": "a[1][1]",
+    "time": 11,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[3][2]",
+    "time": 129,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 66,
+    "flipped_bit": 16
+  },
+  {
+    "var": "j",
+    "time": 108,
+    "flipped_bit": 15
+  },
+  {
+    "var": "size",
+    "time": 102,
+    "flipped_bit": 9
+  },
+  {
+    "var": "size",
+    "time": 79,
+    "flipped_bit": 18
+  },
+  {
+    "var": "k",
+    "time": 150,
+    "flipped_bit": 11
+  },
+  {
+    "var": "j",
+    "time": 72,
+    "flipped_bit": 10
+  },
+  {
+    "var": "a[0][0]",
+    "time": 70,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[1][1]",
+    "time": 35,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 43,
+    "flipped_bit": 22
+  },
+  {
+    "var": "i",
+    "time": 39,
+    "flipped_bit": 19
+  },
+  {
+    "var": "i",
+    "time": 160,
+    "flipped_bit": 26
+  },
+  {
+    "var": "size",
+    "time": 38,
+    "flipped_bit": 13
+  },
+  {
+    "var": "k",
+    "time": 134,
+    "flipped_bit": 13
+  },
+  {
+    "var": "acc",
+    "time": 174,
+    "flipped_bit": 20
+  },
+  {
+    "var": "a[2][2]",
+    "time": 175,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 74,
+    "flipped_bit": 22
+  },
+  {
+    "var": "acc",
+    "time": 106,
+    "flipped_bit": 7
+  },
+  {
+    "var": "result[2][0]",
+    "time": 71,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 97,
+    "flipped_bit": 26
+  },
+  {
+    "var": "a[2][1]",
+    "time": 3,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 68,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[2][3]",
+    "time": 131,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 80,
+    "flipped_bit": 27
+  },
+  {
+    "var": "acc",
+    "time": 51,
+    "flipped_bit": 7
+  },
+  {
+    "var": "i",
+    "time": 25,
+    "flipped_bit": 27
+  },
+  {
+    "var": "b[1][2]",
+    "time": 168,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[0][0]",
+    "time": 146,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[2][0]",
+    "time": 188,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[3][3]",
+    "time": 166,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[3][0]",
+    "time": 2,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 131,
+    "flipped_bit": 12
+  },
+  {
+    "var": "k",
+    "time": 69,
+    "flipped_bit": 20
+  },
+  {
+    "var": "result[1][2]",
+    "time": 64,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 10,
+    "flipped_bit": 20
+  },
+  {
+    "var": "b[1][0]",
+    "time": 123,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 94,
+    "flipped_bit": 9
+  },
+  {
+    "var": "size",
+    "time": 57,
+    "flipped_bit": 16
+  },
+  {
+    "var": "k",
+    "time": 81,
+    "flipped_bit": 15
+  },
+  {
+    "var": "acc",
+    "time": 40,
+    "flipped_bit": 22
+  },
+  {
+    "var": "i",
+    "time": 100,
+    "flipped_bit": 16
+  },
+  {
+    "var": "acc",
+    "time": 34,
+    "flipped_bit": 9
+  },
+  {
+    "var": "result[2][3]",
+    "time": 66,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 131,
+    "flipped_bit": 10
+  },
+  {
+    "var": "b[1][0]",
+    "time": 190,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[1][2]",
+    "time": 35,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 102,
+    "flipped_bit": 25
+  },
+  {
+    "var": "a[1][3]",
+    "time": 73,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[0][3]",
+    "time": 103,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 138,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[0][1]",
+    "time": 57,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[2][0]",
+    "time": 145,
+    "flipped_bit": 1
+  },
+  {
+    "var": "i",
+    "time": 45,
+    "flipped_bit": 25
+  },
+  {
+    "var": "size",
+    "time": 17,
+    "flipped_bit": 8
+  },
+  {
+    "var": "j",
+    "time": 17,
+    "flipped_bit": 30
+  },
+  {
+    "var": "i",
+    "time": 147,
+    "flipped_bit": 19
+  },
+  {
+    "var": "b[0][2]",
+    "time": 137,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[0][3]",
+    "time": 154,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 113,
+    "flipped_bit": 17
+  },
+  {
+    "var": "k",
+    "time": 5,
+    "flipped_bit": 24
+  },
+  {
+    "var": "b[0][1]",
+    "time": 140,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 171,
+    "flipped_bit": 19
+  },
+  {
+    "var": "j",
+    "time": 114,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 124,
+    "flipped_bit": 31
+  },
+  {
+    "var": "i",
+    "time": 89,
+    "flipped_bit": 31
+  },
+  {
+    "var": "k",
+    "time": 59,
+    "flipped_bit": 28
+  },
+  {
+    "var": "k",
+    "time": 49,
+    "flipped_bit": 13
+  },
+  {
+    "var": "acc",
+    "time": 68,
+    "flipped_bit": 6
+  },
+  {
+    "var": "acc",
+    "time": 142,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 125,
+    "flipped_bit": 15
+  },
+  {
+    "var": "a[3][2]",
+    "time": 56,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 40,
+    "flipped_bit": 16
+  },
+  {
+    "var": "b[3][3]",
+    "time": 105,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 68,
+    "flipped_bit": 18
+  },
+  {
+    "var": "j",
+    "time": 12,
+    "flipped_bit": 31
+  },
+  {
+    "var": "size",
+    "time": 147,
+    "flipped_bit": 10
+  },
+  {
+    "var": "k",
+    "time": 142,
+    "flipped_bit": 27
+  },
+  {
+    "var": "i",
+    "time": 132,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[1][3]",
+    "time": 163,
+    "flipped_bit": 2
+  },
+  {
+    "var": "b[0][0]",
+    "time": 88,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 52,
+    "flipped_bit": 19
+  },
+  {
+    "var": "a[3][3]",
+    "time": 174,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 24,
+    "flipped_bit": 13
+  },
+  {
+    "var": "b[2][2]",
+    "time": 28,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 114,
+    "flipped_bit": 21
+  },
+  {
+    "var": "result[0][2]",
+    "time": 160,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 160,
+    "flipped_bit": 7
+  },
+  {
+    "var": "i",
+    "time": 68,
+    "flipped_bit": 13
+  },
+  {
+    "var": "a[3][3]",
+    "time": 112,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 58,
+    "flipped_bit": 31
+  },
+  {
+    "var": "j",
+    "time": 163,
+    "flipped_bit": 16
+  },
+  {
+    "var": "b[1][3]",
+    "time": 44,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[1][2]",
+    "time": 165,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[3][1]",
+    "time": 27,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 41,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 85,
+    "flipped_bit": 19
+  },
+  {
+    "var": "a[1][3]",
+    "time": 56,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 21,
+    "flipped_bit": 10
+  },
+  {
+    "var": "b[2][0]",
+    "time": 14,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 91,
+    "flipped_bit": 19
+  },
+  {
+    "var": "size",
+    "time": 101,
+    "flipped_bit": 9
+  },
+  {
+    "var": "size",
+    "time": 153,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 5,
+    "flipped_bit": 9
+  },
+  {
+    "var": "size",
+    "time": 91,
+    "flipped_bit": 27
+  },
+  {
+    "var": "i",
+    "time": 86,
+    "flipped_bit": 21
+  },
+  {
+    "var": "k",
+    "time": 19,
+    "flipped_bit": 21
+  },
+  {
+    "var": "acc",
+    "time": 66,
+    "flipped_bit": 21
+  },
+  {
+    "var": "size",
+    "time": 112,
+    "flipped_bit": 4
+  },
+  {
+    "var": "acc",
+    "time": 55,
+    "flipped_bit": 23
+  },
+  {
+    "var": "size",
+    "time": 5,
+    "flipped_bit": 24
+  },
+  {
+    "var": "k",
+    "time": 127,
+    "flipped_bit": 17
+  },
+  {
+    "var": "result[0][0]",
+    "time": 185,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 111,
+    "flipped_bit": 23
+  },
+  {
+    "var": "b[0][3]",
+    "time": 35,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 105,
+    "flipped_bit": 30
+  },
+  {
+    "var": "i",
+    "time": 184,
+    "flipped_bit": 4
+  },
+  {
+    "var": "i",
+    "time": 168,
+    "flipped_bit": 8
+  },
+  {
+    "var": "i",
+    "time": 186,
+    "flipped_bit": 8
+  },
+  {
+    "var": "j",
+    "time": 125,
+    "flipped_bit": 29
+  },
+  {
+    "var": "a[3][3]",
+    "time": 103,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[2][0]",
+    "time": 3,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[3][2]",
+    "time": 98,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 86,
+    "flipped_bit": 26
+  },
+  {
+    "var": "b[0][2]",
+    "time": 87,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 138,
+    "flipped_bit": 19
+  },
+  {
+    "var": "a[3][1]",
+    "time": 38,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 98,
+    "flipped_bit": 28
+  },
+  {
+    "var": "acc",
+    "time": 98,
+    "flipped_bit": 7
+  },
+  {
+    "var": "k",
+    "time": 44,
+    "flipped_bit": 14
+  },
+  {
+    "var": "size",
+    "time": 98,
+    "flipped_bit": 31
+  },
+  {
+    "var": "k",
+    "time": 186,
+    "flipped_bit": 25
+  },
+  {
+    "var": "j",
+    "time": 181,
+    "flipped_bit": 18
+  },
+  {
+    "var": "k",
+    "time": 100,
+    "flipped_bit": 27
+  },
+  {
+    "var": "size",
+    "time": 18,
+    "flipped_bit": 17
+  },
+  {
+    "var": "acc",
+    "time": 21,
+    "flipped_bit": 31
+  },
+  {
+    "var": "a[0][2]",
+    "time": 76,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 93,
+    "flipped_bit": 20
+  },
+  {
+    "var": "b[0][0]",
+    "time": 81,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 4,
+    "flipped_bit": 29
+  },
+  {
+    "var": "i",
+    "time": 189,
+    "flipped_bit": 14
+  },
+  {
+    "var": "i",
+    "time": 157,
+    "flipped_bit": 12
+  },
+  {
+    "var": "j",
+    "time": 43,
+    "flipped_bit": 16
+  },
+  {
+    "var": "j",
+    "time": 46,
+    "flipped_bit": 20
+  },
+  {
+    "var": "b[0][1]",
+    "time": 163,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[3][2]",
+    "time": 136,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 62,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 170,
+    "flipped_bit": 24
+  },
+  {
+    "var": "j",
+    "time": 17,
+    "flipped_bit": 18
+  },
+  {
+    "var": "b[2][2]",
+    "time": 123,
+    "flipped_bit": 2
+  },
+  {
+    "var": "acc",
+    "time": 84,
+    "flipped_bit": 10
+  },
+  {
+    "var": "size",
+    "time": 15,
+    "flipped_bit": 28
+  },
+  {
+    "var": "k",
+    "time": 158,
+    "flipped_bit": 19
+  },
+  {
+    "var": "result[2][3]",
+    "time": 123,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 46,
+    "flipped_bit": 25
+  },
+  {
+    "var": "a[3][1]",
+    "time": 31,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[0][3]",
+    "time": 28,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[0][1]",
+    "time": 118,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 4,
+    "flipped_bit": 12
+  },
+  {
+    "var": "a[1][0]",
+    "time": 4,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 95,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[1][1]",
+    "time": 97,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[3][3]",
+    "time": 60,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 118,
+    "flipped_bit": 24
+  },
+  {
+    "var": "acc",
+    "time": 31,
+    "flipped_bit": 17
+  },
+  {
+    "var": "a[3][2]",
+    "time": 110,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[3][0]",
+    "time": 75,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 152,
+    "flipped_bit": 24
+  },
+  {
+    "var": "b[2][3]",
+    "time": 186,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 90,
+    "flipped_bit": 20
+  },
+  {
+    "var": "k",
+    "time": 145,
+    "flipped_bit": 13
+  },
+  {
+    "var": "k",
+    "time": 14,
+    "flipped_bit": 30
+  },
+  {
+    "var": "size",
+    "time": 54,
+    "flipped_bit": 4
+  },
+  {
+    "var": "b[1][1]",
+    "time": 125,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[2][3]",
+    "time": 101,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 94,
+    "flipped_bit": 5
+  },
+  {
+    "var": "result[3][2]",
+    "time": 83,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 101,
+    "flipped_bit": 7
+  },
+  {
+    "var": "a[3][2]",
+    "time": 3,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 36,
+    "flipped_bit": 13
+  },
+  {
+    "var": "i",
+    "time": 117,
+    "flipped_bit": 24
+  },
+  {
+    "var": "result[0][3]",
+    "time": 44,
+    "flipped_bit": 3
+  },
+  {
+    "var": "k",
+    "time": 171,
+    "flipped_bit": 8
+  },
+  {
+    "var": "a[3][2]",
+    "time": 74,
+    "flipped_bit": 0
+  },
+  {
+    "var": "j",
+    "time": 18,
+    "flipped_bit": 29
+  },
+  {
+    "var": "acc",
+    "time": 13,
+    "flipped_bit": 24
+  },
+  {
+    "var": "size",
+    "time": 148,
+    "flipped_bit": 21
+  },
+  {
+    "var": "size",
+    "time": 115,
+    "flipped_bit": 4
+  },
+  {
+    "var": "j",
+    "time": 48,
+    "flipped_bit": 12
+  },
+  {
+    "var": "k",
+    "time": 134,
+    "flipped_bit": 19
+  },
+  {
+    "var": "j",
+    "time": 68,
+    "flipped_bit": 1
+  },
+  {
+    "var": "a[1][3]",
+    "time": 183,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 41,
+    "flipped_bit": 4
+  },
+  {
+    "var": "size",
+    "time": 51,
+    "flipped_bit": 29
+  },
+  {
+    "var": "k",
+    "time": 35,
+    "flipped_bit": 7
+  },
+  {
+    "var": "result[1][3]",
+    "time": 127,
+    "flipped_bit": 2
+  },
+  {
+    "var": "j",
+    "time": 145,
+    "flipped_bit": 31
+  },
+  {
+    "var": "size",
+    "time": 112,
+    "flipped_bit": 13
+  },
+  {
+    "var": "j",
+    "time": 39,
+    "flipped_bit": 9
+  },
+  {
+    "var": "i",
+    "time": 13,
+    "flipped_bit": 25
+  },
+  {
+    "var": "i",
+    "time": 44,
+    "flipped_bit": 13
+  },
+  {
+    "var": "j",
+    "time": 63,
+    "flipped_bit": 6
+  },
+  {
+    "var": "acc",
+    "time": 81,
+    "flipped_bit": 31
+  },
+  {
+    "var": "acc",
+    "time": 99,
+    "flipped_bit": 21
+  },
+  {
+    "var": "result[3][0]",
+    "time": 161,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 152,
+    "flipped_bit": 8
+  },
+  {
+    "var": "j",
+    "time": 20,
+    "flipped_bit": 11
+  },
+  {
+    "var": "j",
+    "time": 160,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[2][0]",
+    "time": 84,
+    "flipped_bit": 3
+  },
+  {
+    "var": "acc",
+    "time": 51,
+    "flipped_bit": 26
+  },
+  {
+    "var": "a[0][3]",
+    "time": 120,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[2][3]",
+    "time": 86,
+    "flipped_bit": 1
+  },
+  {
+    "var": "acc",
+    "time": 68,
+    "flipped_bit": 11
+  },
+  {
+    "var": "i",
+    "time": 95,
+    "flipped_bit": 19
+  },
+  {
+    "var": "i",
+    "time": 39,
+    "flipped_bit": 15
+  },
+  {
+    "var": "a[3][2]",
+    "time": 184,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[3][3]",
+    "time": 78,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 43,
+    "flipped_bit": 19
+  },
+  {
+    "var": "b[2][2]",
+    "time": 158,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 91,
+    "flipped_bit": 5
+  },
+  {
+    "var": "acc",
+    "time": 169,
+    "flipped_bit": 13
+  },
+  {
+    "var": "b[2][1]",
+    "time": 20,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 28,
+    "flipped_bit": 25
+  },
+  {
+    "var": "result[0][0]",
+    "time": 107,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 67,
+    "flipped_bit": 6
+  },
+  {
+    "var": "a[0][3]",
+    "time": 88,
+    "flipped_bit": 1
+  },
+  {
+    "var": "size",
+    "time": 120,
+    "flipped_bit": 19
+  },
+  {
+    "var": "result[3][0]",
+    "time": 107,
+    "flipped_bit": 0
+  },
+  {
+    "var": "a[0][3]",
+    "time": 116,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[0][0]",
+    "time": 11,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[2][2]",
+    "time": 68,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 190,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 154,
+    "flipped_bit": 23
+  },
+  {
+    "var": "k",
+    "time": 165,
+    "flipped_bit": 31
+  },
+  {
+    "var": "b[1][3]",
+    "time": 6,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 45,
+    "flipped_bit": 30
+  },
+  {
+    "var": "size",
+    "time": 163,
+    "flipped_bit": 17
+  },
+  {
+    "var": "i",
+    "time": 106,
+    "flipped_bit": 2
+  },
+  {
+    "var": "i",
+    "time": 105,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 148,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 179,
+    "flipped_bit": 7
+  },
+  {
+    "var": "acc",
+    "time": 53,
+    "flipped_bit": 6
+  },
+  {
+    "var": "acc",
+    "time": 135,
+    "flipped_bit": 18
+  },
+  {
+    "var": "k",
+    "time": 147,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 126,
+    "flipped_bit": 28
+  },
+  {
+    "var": "size",
+    "time": 175,
+    "flipped_bit": 17
+  },
+  {
+    "var": "b[1][0]",
+    "time": 147,
+    "flipped_bit": 0
+  },
+  {
+    "var": "result[0][0]",
+    "time": 8,
+    "flipped_bit": 3
+  },
+  {
+    "var": "result[0][1]",
+    "time": 171,
+    "flipped_bit": 3
+  },
+  {
+    "var": "a[0][0]",
+    "time": 150,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 9,
+    "flipped_bit": 23
+  },
+  {
+    "var": "result[0][3]",
+    "time": 147,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 122,
+    "flipped_bit": 26
+  },
+  {
+    "var": "j",
+    "time": 49,
+    "flipped_bit": 7
+  },
+  {
+    "var": "j",
+    "time": 175,
+    "flipped_bit": 7
+  },
+  {
+    "var": "i",
+    "time": 41,
+    "flipped_bit": 17
+  },
+  {
+    "var": "i",
+    "time": 34,
+    "flipped_bit": 26
+  },
+  {
+    "var": "size",
+    "time": 166,
+    "flipped_bit": 28
+  },
+  {
+    "var": "a[1][3]",
+    "time": 129,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 156,
+    "flipped_bit": 26
+  },
+  {
+    "var": "b[1][3]",
+    "time": 26,
+    "flipped_bit": 1
+  },
+  {
+    "var": "result[0][3]",
+    "time": 180,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 177,
+    "flipped_bit": 17
+  },
+  {
+    "var": "b[2][2]",
+    "time": 181,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[2][1]",
+    "time": 47,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[2][1]",
+    "time": 127,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 158,
+    "flipped_bit": 7
+  },
+  {
+    "var": "b[2][2]",
+    "time": 71,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 136,
+    "flipped_bit": 26
+  },
+  {
+    "var": "size",
+    "time": 39,
+    "flipped_bit": 17
+  },
+  {
+    "var": "acc",
+    "time": 73,
+    "flipped_bit": 5
+  },
+  {
+    "var": "b[1][0]",
+    "time": 51,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 60,
+    "flipped_bit": 24
+  },
+  {
+    "var": "a[0][3]",
+    "time": 77,
+    "flipped_bit": 0
+  },
+  {
+    "var": "acc",
+    "time": 112,
+    "flipped_bit": 17
+  },
+  {
+    "var": "acc",
+    "time": 18,
+    "flipped_bit": 18
+  },
+  {
+    "var": "k",
+    "time": 27,
+    "flipped_bit": 12
+  },
+  {
+    "var": "a[3][0]",
+    "time": 46,
+    "flipped_bit": 1
+  },
+  {
+    "var": "k",
+    "time": 159,
+    "flipped_bit": 3
+  },
+  {
+    "var": "size",
+    "time": 153,
+    "flipped_bit": 9
+  },
+  {
+    "var": "size",
+    "time": 150,
+    "flipped_bit": 22
+  },
+  {
+    "var": "acc",
+    "time": 136,
+    "flipped_bit": 24
+  },
+  {
+    "var": "result[3][1]",
+    "time": 12,
+    "flipped_bit": 0
+  },
+  {
+    "var": "k",
+    "time": 132,
+    "flipped_bit": 19
+  },
+  {
+    "var": "acc",
+    "time": 152,
+    "flipped_bit": 25
+  },
+  {
+    "var": "k",
+    "time": 56,
+    "flipped_bit": 23
+  },
+  {
+    "var": "j",
+    "time": 133,
+    "flipped_bit": 26
+  },
+  {
+    "var": "k",
+    "time": 124,
+    "flipped_bit": 21
+  },
+  {
+    "var": "b[1][3]",
+    "time": 131,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 72,
+    "flipped_bit": 25
+  },
+  {
+    "var": "k",
+    "time": 97,
+    "flipped_bit": 19
+  },
+  {
+    "var": "acc",
+    "time": 93,
+    "flipped_bit": 7
+  },
+  {
+    "var": "i",
+    "time": 43,
+    "flipped_bit": 15
+  },
+  {
+    "var": "acc",
+    "time": 161,
+    "flipped_bit": 2
+  },
+  {
+    "var": "result[1][1]",
+    "time": 165,
+    "flipped_bit": 1
+  },
+  {
+    "var": "b[2][2]",
+    "time": 164,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 16,
+    "flipped_bit": 5
+  },
+  {
+    "var": "result[3][3]",
+    "time": 76,
+    "flipped_bit": 0
+  },
+  {
+    "var": "b[2][0]",
+    "time": 153,
+    "flipped_bit": 2
+  },
+  {
+    "var": "k",
+    "time": 145,
+    "flipped_bit": 27
+  },
+  {
+    "var": "size",
+    "time": 47,
+    "flipped_bit": 20
+  },
+  {
+    "var": "result[0][0]",
+    "time": 83,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 37,
+    "flipped_bit": 22
+  },
+  {
+    "var": "b[1][0]",
+    "time": 169,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 146,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 140,
+    "flipped_bit": 11
+  },
+  {
+    "var": "a[2][2]",
+    "time": 16,
+    "flipped_bit": 3
+  },
+  {
+    "var": "i",
+    "time": 9,
+    "flipped_bit": 0
+  },
+  {
+    "var": "size",
+    "time": 2,
+    "flipped_bit": 9
+  },
+  {
+    "var": "size",
+    "time": 113,
+    "flipped_bit": 26
+  },
+  {
+    "var": "result[2][3]",
+    "time": 143,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 42,
+    "flipped_bit": 30
+  },
+  {
+    "var": "b[2][3]",
+    "time": 77,
+    "flipped_bit": 2
+  },
+  {
+    "var": "a[3][2]",
+    "time": 58,
+    "flipped_bit": 1
+  },
+  {
+    "var": "j",
+    "time": 153,
+    "flipped_bit": 5
+  },
+  {
+    "var": "i",
+    "time": 50,
+    "flipped_bit": 15
+  },
+  {
+    "var": "a[0][2]",
+    "time": 104,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 76,
+    "flipped_bit": 12
+  },
+  {
+    "var": "b[2][0]",
+    "time": 34,
+    "flipped_bit": 0
+  },
+  {
+    "var": "i",
+    "time": 98,
+    "flipped_bit": 9
+  },
+  {
+    "var": "i",
+    "time": 33,
+    "flipped_bit": 18
+  },
+  {
+    "var": "size",
+    "time": 30,
+    "flipped_bit": 26
+  },
+  {
+    "var": "k",
+    "time": 128,
+    "flipped_bit": 22
+  },
+  {
+    "var": "k",
+    "time": 176,
+    "flipped_bit": 29
+  },
+  {
+    "var": "size",
+    "time": 158,
+    "flipped_bit": 18
+  },
+  {
+    "var": "b[0][1]",
+    "time": 38,
+    "flipped_bit": 3
+  },
+  {
+    "var": "j",
+    "time": 81,
+    "flipped_bit": 25
+  },
+  {
+    "var": "size",
+    "time": 143,
+    "flipped_bit": 27
+  },
+  {
+    "var": "i",
+    "time": 104,
+    "flipped_bit": 10
+  },
+  {
+    "var": "size",
+    "time": 87,
+    "flipped_bit": 19
+  },
+  {
+    "var": "k",
+    "time": 52,
+    "flipped_bit": 16
+  },
+  {
+    "var": "acc",
+    "time": 169,
+    "flipped_bit": 12
+  },
+  {
+    "var": "result[2][0]",
+    "time": 166,
+    "flipped_bit": 2
+  },
+  {
+    "var": "size",
+    "time": 18,
+    "flipped_bit": 3
+  },
+  {
+    "var": "b[1][1]",
+    "time": 8,
+    "flipped_bit": 0
+  }
+]

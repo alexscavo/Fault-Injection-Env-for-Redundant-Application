@@ -1,0 +1,30 @@
+[package]
+name = "prj_G19"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+thiserror = "1.0"
+syn= { version = "2.0", features = ["visit", "full", "clone-impls"]}
+quote = "1.0"
+serde = { version = "1.0.210", features = ["derive"] }
+serde_json = "1.0.128"
+rand = "0.8"
+
+genpdf = { version = "0.2.0", features = ["images"] }
+once_cell = "1.20.2"
+image = "0.25.5"
+resvg = "0.44.0"
+usvg = "0.44.0"
+snafu = "0.8.5"
+charts-rs = "0.3.19"
+
+dialoguer = "0.11.0"
+itertools = "0.12.1"
+
+panic-message = "0.3.0"
+regex = "1.11.1"
+[features]
+images = []

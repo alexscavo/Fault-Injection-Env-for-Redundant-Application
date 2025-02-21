@@ -1,0 +1,35 @@
+{
+  "num_inst": 14,
+  "vars": [
+    {
+      "name": "vet",
+      "ty": "Vec < i32 >",
+      "size": "4*len",
+      "start": 1
+    },
+    {
+      "name": "n",
+      "ty": "usize",
+      "size": "4",
+      "start": 1
+    },
+    {
+      "name": "j",
+      "ty": "i32",
+      "size": "4",
+      "start": 2
+    },
+    {
+      "name": "min",
+      "ty": "i32",
+      "size": "4",
+      "start": 3
+    },
+    {
+      "name": "i",
+      "ty": "i32",
+      "size": "4",
+      "start": 4
+    }
+  ]
+}

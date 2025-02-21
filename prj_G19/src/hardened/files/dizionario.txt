@@ -1,0 +1,6 @@
+5
+PartialEq::eq
+PartialOrd::partial_cmp
+Ord::cmp
+Index<Hardened<usize>>::index
+IndexMut<Hardened<usize>>::index_mut

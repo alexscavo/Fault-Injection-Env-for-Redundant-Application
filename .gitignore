@@ -1,0 +1,15 @@
+
+/prj_G19/target
+*.aux
+*.fls
+*.log
+*.out
+*.gz
+*.toc
+*.snm
+*.fdb_latexmk
+*.nav
+docs/beamer/main.synctex(busy)
+*.bbl
+*.bcf
+*.blg

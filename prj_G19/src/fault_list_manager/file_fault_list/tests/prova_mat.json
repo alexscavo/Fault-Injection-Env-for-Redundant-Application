@@ -1,0 +1,29 @@
+{
+  "num_inst": 1,
+  "vars": [
+    {
+      "name": "mat",
+      "ty": "Vec < Vec < i32 > >",
+      "size": "4*nR*nC",
+      "start": 1
+    },
+    {
+      "name": "nR",
+      "ty": "usize",
+      "size": "4",
+      "start": 1
+    },
+    {
+      "name": "nC",
+      "ty": "usize",
+      "size": "4",
+      "start": 1
+    },
+    {
+      "name": "other_matrix",
+      "ty": "Vec < Vec < i32 > >",
+      "size": "4*nR*nC",
+      "start": 1
+    }
+  ]
+}
